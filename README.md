@@ -27,4 +27,4 @@ Get Raved! 기트허브 페이지입니다.
 
 ### Texts
 
-* [[네이비필드] 현 네이비필드 메타와 항모의 역할론](https://raw.githubusercontent.com/Get-Raved/get-raved.github.com/master/text0001.md)
+* [[네이비필드] 현 네이비필드 메타와 항모의 역할론](https://\Get-Raved/get-raved.github.com/master/text0001.md)
