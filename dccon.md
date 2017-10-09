@@ -1,6 +1,5 @@
-![우리핵박수](https://s20.postimg.org/pzhxm0459/1887cb7d57.gif)
-![우리핵박수1](https://s20.postimg.org/pzhxm0459/1887cb7d57.gif)
-    {"keywords": ["우리핵박수2"], "path": "https://s20.postimg.org/csx307xtp/b97640a2ee.gif", "tags": ["우리핵", "움짤", "박수"]},
+![우리핵박수](https://s20.postimg.org/pzhxm0459/1887cb7d57.gif) ~우리핵박수, ~우리핵박수1
+    {"keywords": ["우리핵박수2"], "path": "https://s20.postimg.org/csx307xtp/b97640a2ee.gif", "tags": ["우리핵", "움짤", "박수"]},
     {"keywords": ["우리핵박수3"], "path": "https://s20.postimg.org/7szms9s71/25b3818f96.gif", "tags": ["우리핵", "움짤", "박수"]},
     {"keywords": ["우리핵안녕"], "path": "https://s20.postimg.org/ryyjdeygt/a17abeb117.gif", "tags": ["우리핵", "움짤", "인사"]},
     {"keywords": ["우리핵아닌데"], "path": "https://s20.postimg.org/qet7f0q2l/bb15124f7a.gif", "tags": ["우리핵", "움짤"]},
