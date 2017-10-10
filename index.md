@@ -18,6 +18,14 @@ Get Raved! 기트허브 페이지입니다.
 
 
 
+### PC
+
+* Intel i3-4130
+* NVIDIA Geforce GTX650
+* DDR3 8GB RAM
+
+
+
 ### On Going Projects
 
 * 기트허브 홈페이지 구축
