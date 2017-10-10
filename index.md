@@ -26,9 +26,9 @@ Streaming Pages|Streaming Contents|Feature
   
 ### PC
 
-* Intel i3-4130
-* NVIDIA GeForce GTX 650
-* DDR3 8GB RAM
+CPU|GPU|RAM
+-|-|-
+Intel i3-4130|NVIDIA GeForce GTX 650|DDR3 8GB
   
   
   
