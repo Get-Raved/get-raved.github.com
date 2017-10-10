@@ -46,4 +46,4 @@ Posts
 * [네이비필드 관련](https://get-raved.github.io/lists/nf.html)
 * [리그 오브 레전드 관련](https://get-raved.github.io/lists/lol.html)
 * [게임 관련](https://get-raved.github.io/lists/game.html)
-* [수학/통계 관련]](https://get-raved.github.io/lists/mathstat.html)
+* [수학/통계 관련](https://get-raved.github.io/lists/mathstat.html)
