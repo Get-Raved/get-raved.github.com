@@ -21,7 +21,7 @@ Get Raved! 기트허브 페이지입니다.
 ### PC
 
 * Intel i3-4130
-* NVIDIA Geforce GTX650
+* NVIDIA GeForce GTX 650
 * DDR3 8GB RAM
 
 
