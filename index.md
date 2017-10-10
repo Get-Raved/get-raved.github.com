@@ -19,9 +19,9 @@ Get Raved! 기트허브 페이지입니다.
 
 #### Streaming Contents
 * [Navyfield (Main Content)](http://navyfield.co.kr/main.asp)
-* OpenRCT2 (Suspended)
-* Starcraft (Suspended)
-* Playerunknown's Battleground (Maybe?)
+* _OpenRCT2 (Suspended)_
+* _Starcraft (Suspended)_
+* _Playerunknown's Battleground (Maybe?)_
   
   
 
