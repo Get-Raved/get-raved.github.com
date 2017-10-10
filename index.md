@@ -4,14 +4,14 @@ Get Raved! 기트허브 페이지입니다.
   
   
   
-
+  
 ### Get Raved! Movies
 
 * [**Get Raved! on Youtube**](https://www.youtube.com/channel/UCddjChClpRKImlG8fepmypA)
   
   
-
-
+  
+  
 ### Get Raved! Streaming
 
 #### Streaming Pages
@@ -27,7 +27,7 @@ Get Raved! 기트허브 페이지입니다.
   
   
   
-
+  
 ### PC
 
 * Intel i3-4130
@@ -36,7 +36,7 @@ Get Raved! 기트허브 페이지입니다.
   
   
   
-
+  
 ### On Going Projects
 
 * 기트허브 홈페이지 구축
@@ -44,7 +44,7 @@ Get Raved! 기트허브 페이지입니다.
   
   
   
-
+  
 ### Texts
 
 * 네이비필드 관련
