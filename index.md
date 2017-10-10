@@ -41,7 +41,7 @@ Intel i3-4130|NVIDIA GeForce GTX 650|DDR3 8GB
   
   
   
-Posts
+### Posts
 
 * [네이비필드 관련](https://get-raved.github.io/lists/nf.html)
 * [리그 오브 레전드 관련](https://get-raved.github.io/lists/lol.html)
