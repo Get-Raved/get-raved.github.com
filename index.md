@@ -18,8 +18,8 @@ Streaming Pages|Streaming Contents|Feature
 -|-|-
 [**Get Raved! on Youtube (Streaming Page)**](https://www.youtube.com/channel/UCddjChClpRKImlG8fepmypA/live)|[**Navyfield (Main Content)**](http://navyfield.co.kr/main.asp)|[스트리밍 연동 디시콘 리스트](https://gist.githubusercontent.com/Get-Raved/57fbde60b5e19fcb31406d9cc0dc8600/raw/dccon_list.json)
 [Get Raved! on Twitch TV](https://go.twitch.tv/trollingrave)|_OpenRCT2 (Suspended)_
--|_Starcraft (Suspended)_
--|_Playerunknown's Battleground (Maybe?)_
+ |_Starcraft (Suspended)_
+ |_Playerunknown's Battleground (Maybe?)_
   
   
   
