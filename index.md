@@ -16,7 +16,7 @@ Get Raved! 기트허브 페이지입니다.
 
 Streaming Pages|Streaming Contents|Feature
 -|-|-
-[**Get Raved! on Youtube (Streaming Page)**](https://www.youtube.com/channel/UCddjChClpRKImlG8fepmypA/live)|[**Navyfield (Main Content)**](http://navyfield.co.kr/main.asp)|[스트리밍 연동 디시콘 리스트](https://gist.githubusercontent.com/Get-Raved/57fbde60b5e19fcb31406d9cc0dc8600/raw/dccon_list.json)
+[**Get Raved! on Youtube (Streaming Page)**](https://www.youtube.com/channel/UCddjChClpRKImlG8fepmypA/live)|[**Navyfield (Main Content)**](http://navyfield.co.kr/main.asp)|[스트리밍 연동 디시콘 리스트]https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=https%3A%2F%2Fgist.githubusercontent.com%2FGet-Raved%2F57fbde60b5e19fcb31406d9cc0dc8600%2Fraw%2Fdccon_list.json)
 [Get Raved! on Twitch TV](https://go.twitch.tv/trollingrave)|_OpenRCT2 (Suspended)_
 -|_Starcraft (Suspended)_
 -|_Playerunknown's Battleground (Maybe?)_
