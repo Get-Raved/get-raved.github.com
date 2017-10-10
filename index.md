@@ -18,10 +18,10 @@ Get Raved! 기트허브 페이지입니다.
 * [스트리밍 연동 디시콘 리스트](https://gist.githubusercontent.com/Get-Raved/57fbde60b5e19fcb31406d9cc0dc8600/raw/dccon_list.json)
 
 #### Streaming Contents
-* [Navyfield(Main Content)](http://navyfield.co.kr/main.asp)
-* OpenRCT2(Suspended)
-* Starcraft(Suspended)
-* Playerunknown's Battleground(Maybe?)
+* [Navyfield (Main Content)](http://navyfield.co.kr/main.asp)
+* OpenRCT2 (Suspended)
+* Starcraft (Suspended)
+* Playerunknown's Battleground (Maybe?)
 
 
 
