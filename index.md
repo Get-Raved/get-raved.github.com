@@ -3,12 +3,14 @@
 Get Raved! 기트허브 페이지입니다.
   
   
+  
 
 ### Get Raved! Movies
 
 * [**Get Raved! on Youtube**](https://www.youtube.com/channel/UCddjChClpRKImlG8fepmypA)
   
   
+
 
 ### Get Raved! Streaming
 
@@ -24,6 +26,7 @@ Get Raved! 기트허브 페이지입니다.
 * _Playerunknown's Battleground (Maybe?)_
   
   
+  
 
 ### PC
 
@@ -32,11 +35,13 @@ Get Raved! 기트허브 페이지입니다.
 * DDR3 8GB RAM
   
   
+  
 
 ### On Going Projects
 
 * 기트허브 홈페이지 구축
 * 디시콘 스트리밍 연동
+  
   
   
 
