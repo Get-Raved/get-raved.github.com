@@ -60,3 +60,39 @@ FF FCS I (Aiming)|55|800
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 없음|||||||||||
 
+<table>
+  <thead>
+    <tr>
+      <th>Streaming Pages</th>
+      <th>Streaming Contents</th>
+      <th>Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.youtube.com/channel/UCddjChClpRKImlG8fepmypA/live"><strong>Get Raved! on Youtube (Streaming Page)</strong></a></td>
+      <td><a href="http://navyfield.co.kr/main.asp"><strong>Navyfield (Main Content)</strong></a></td>
+      <td><a href="https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=https%3A%2F%2Fgist.githubusercontent.com%2FGet-Raved%2F57fbde60b5e19fcb31406d9cc0dc8600%2Fraw%2Fdccon_list.json"><strong>스트리밍 연동 디시콘 리스트</strong></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.twitch.tv/get_raved">Get Raved! on Twitch TV</a></td>
+      <td>World of Tanks</td>
+      <td><a href="https://twip.kr/get_raved">레이브 밥 먹이기</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><em>Playerunknown’s Battleground (Suspended)</em></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><em>OpenRCT2 (Suspended)</em></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><em>Starcraft (Suspended)</em></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
