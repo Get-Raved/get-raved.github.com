@@ -109,7 +109,7 @@ FF FCS I (Aiming)|55|800|0
 		<th>대함</th>
 		<th>공대공</th>
 	</tr>
-	<tr>
+	<tr align="center" valign="center">
 		<td>없음</td>
 		<td></td>
 		<td></td>
