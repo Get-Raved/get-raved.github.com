@@ -3,7 +3,7 @@
 상위 문서 : [중립 테크 트리](중립 테크 트리)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-18 23:46:15 +0900
+updated : 2021-03-19 16:04:45 +0900
 
 ---
 
@@ -29,12 +29,47 @@ updated : 2021-03-18 23:46:15 +0900
 :-:|:-:|:-:|:-:
 -|2|0|1
 
-**함포 배치(용적)**|**주포**|-|**주포**|**주포**|-
-:-:|:-:|:-:|:-:|:-:|:-:
-**전방 함포**||-|**후방 함포**||
-**우현**|-|-|-|-|-
-**전방**|26|**함교**|26|26|**후방**
-**좌현**|-|-|-|-|-
+<table>
+	<tr>
+		<th>좌현</th>
+		<th>전방</th>
+		<th>우현</th>
+		<th colspan="2">함포 배열</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td>26</td>
+		<td></td>
+		<th rowspan="1">주포</th>
+		<th rowspan="2">전방</th>
+	</tr>
+	<tr>
+		<td></td>
+		<th>함교</th>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>26</td>
+		<td></td>
+		<th rowspan="2">주포</th>
+		<th rowspan="2">후방</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td>26</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<th>후방</th>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
 
 **주요 주포**|**최대 사격 횟수**|**최대 고각**|**사정거리**|**기본 연사 속도**|**무게(톤)**|**제한 레벨**|**필요 병종**
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
@@ -60,39 +95,3 @@ FF FCS I (Aiming)|55|800
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 없음|||||||||||
 
-<table>
-  <thead>
-    <tr>
-      <th>Streaming Pages</th>
-      <th>Streaming Contents</th>
-      <th>Features</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://www.youtube.com/channel/UCddjChClpRKImlG8fepmypA/live"><strong>Get Raved! on Youtube (Streaming Page)</strong></a></td>
-      <td><a href="http://navyfield.co.kr/main.asp"><strong>Navyfield (Main Content)</strong></a></td>
-      <td><a href="https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=https%3A%2F%2Fgist.githubusercontent.com%2FGet-Raved%2F57fbde60b5e19fcb31406d9cc0dc8600%2Fraw%2Fdccon_list.json"><strong>스트리밍 연동 디시콘 리스트</strong></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.twitch.tv/get_raved">Get Raved! on Twitch TV</a></td>
-      <td>World of Tanks</td>
-      <td><a href="https://twip.kr/get_raved">레이브 밥 먹이기</a></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><em>Playerunknown’s Battleground (Suspended)</em></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><em>OpenRCT2 (Suspended)</em></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><em>Starcraft (Suspended)</em></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
