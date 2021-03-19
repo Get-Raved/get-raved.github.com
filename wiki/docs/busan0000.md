@@ -91,7 +91,7 @@ FF Engine I (Heavy)|0|0|7|1920|110
 FF FCS I (Aiming)|55|800|0
 
 <table>
-	<tr align="center" valign="center">
+	<tr>
 		<th rowspan="2">함재기</th>
 		<th rowspan="2">용적</th>
 		<th rowspan="2">최대 탑재 수</th>
@@ -103,13 +103,13 @@ FF FCS I (Aiming)|55|800|0
 		<th colspan="2">공격력</th>
 		<th rowspan="2">준비 시간</th>
 	</tr>
-	<tr align="center" valign"center">
+	<tr>
 		<th>AP</th>
 		<th>HE</th>
 		<th>대함</th>
 		<th>공대공</th>
 	</tr>
-	<tr align="center" valign"center">
+	<tr>
 		<td>없음</td>
 		<td></td>
 		<td></td>
