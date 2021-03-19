@@ -3,7 +3,7 @@
 상위 문서 : [중립 테크 트리](중립 테크 트리)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-19 16:09:21 +0900
+updated : 2021-03-19 16:12:48 +0900
 
 ---
 
@@ -29,39 +29,39 @@ updated : 2021-03-19 16:09:21 +0900
 :-:|:-:|:-:|:-:
 -|2|0|1
 
-<table align="center" valign="middle">
-	<tr>
+<table>
+	<tr align="center" valign="center">
 		<th>좌현</th>
 		<th>전방</th>
 		<th>우현</th>
 		<th colspan="2">함포 배열</th>
 	</tr>
-	<tr>
+	<tr align="center" valign="center">
 		<td></td>
 		<td>26</td>
 		<td></td>
 		<th rowspan="1">주포</th>
 		<th rowspan="2">전방</th>
 	</tr>
-	<tr>
+	<tr align="center" valign="center">
 		<td></td>
 		<th rowspan="1">함교</th>
 		<td></td>
 		<td></td>
 	</tr>
-	<tr>
+	<tr align="center" valign="center">
 		<td></td>
 		<td>26</td>
 		<td></td>
 		<th rowspan="2">주포</th>
 		<th rowspan="2">후방</th>
 	</tr>
-	<tr>
+	<tr align="center" valign="center">
 		<td></td>
 		<td>26</td>
 		<td></td>
 	</tr>
-	<tr>
+	<tr align="center" valign="center">
 		<td></td>
 		<th>후방</th>
 		<td></td>
