@@ -3,7 +3,7 @@
 상위 문서 : [중립 테크 트리](중립 테크 트리)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-19 17:22:16 +0900
+updated : 2021-03-19 17:23:51 +0900
 
 ---
 
@@ -15,8 +15,8 @@ updated : 2021-03-19 17:22:16 +0900
 
 ## 1. 계통도
 
-<table>
-	<tr align="center" valign="center">
+<table align="center" valign="center">
+	<tr>
 		<td rowspan="4">Frigate-01 (1레벨)</td>
 		<td rowspan="4">↔</td>
 		<td>Frigate-01 M1 (2레벨)</td>
