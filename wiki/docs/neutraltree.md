@@ -1,7 +1,7 @@
 # 중립 테크 트리
 
 date : 2021-03-18 13:52:31 +0900\
-updated : 2021-03-19 17:57:16 +0900
+updated : 2021-03-19 17:58:28 +0900
 
 ---
 
@@ -113,7 +113,7 @@ updated : 2021-03-19 17:57:16 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<td>Frigate-X (22레벨)</td>
+		<td>FF. Frigate-X (22레벨)</td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -123,7 +123,7 @@ updated : 2021-03-19 17:57:16 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<td>Frigate-Y (25레벨)</td>
+		<td>FF. Frigate-Y (25레벨)</td>
 		<td></td>
 		<td></td>
 	</tr>

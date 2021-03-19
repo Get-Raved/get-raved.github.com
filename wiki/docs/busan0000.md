@@ -3,7 +3,7 @@
 상위 문서 : [중립 테크 트리](neutraltree)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-19 17:41:21 +0900
+updated : 2021-03-19 18:20:22 +0900
 
 ---
 
@@ -56,6 +56,31 @@ updated : 2021-03-19 17:41:21 +0900
 	</tr>
 	<tr>
 		<td><a href="https://get-raved.github.io/wiki/docs/busan0001">Destroyer-01 (5레벨)</a></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><a href="https://get-raved.github.io/wiki/docs/busan0001">Destroyer-02 (9레벨)</a></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>FF. Frigate-X (22레벨)</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>FF. Frigate-Y (25레벨)</td>
 		<td></td>
 		<td></td>
 	</tr>
