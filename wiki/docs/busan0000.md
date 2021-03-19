@@ -3,7 +3,7 @@
 상위 문서 : [중립 테크 트리](중립 테크 트리)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-19 16:53:04 +0900
+updated : 2021-03-19 17:22:16 +0900
 
 ---
 
@@ -14,6 +14,94 @@ updated : 2021-03-19 16:53:04 +0900
 ---
 
 ## 1. 계통도
+
+<table>
+	<tr align="center" valign="center">
+		<td rowspan="4">Frigate-01 (1레벨)</td>
+		<td rowspan="4">↔</td>
+		<td>Frigate-01 M1 (2레벨)</td>
+	</tr>
+	<tr>
+		<td>Frigate-01 M2 (2레벨)</td>
+	</tr>
+	<tr>
+		<td>Frigate-01 M3 (2레벨)</td>
+	</tr>
+	<tr>
+		<td>Frigate-11 (14레벨)</td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td rowspan="4">Frigate-02 (3레벨)</td>
+		<td rowspan="4">↔</td>
+		<td>Frigate-02 M1 (4레벨)</td>
+	</tr>
+	<tr>
+		<td>Frigate-02 M2 (4레벨)</td>
+	</tr>
+	<tr>
+		<td>Frigate-02 M3 (4레벨)</td>
+	</tr>
+	<tr>
+		<td>Frigate-21 (21레벨)</td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td rowspan="3">Destroyer-01 (5레벨)</td>
+		<td rowspan="3">↔</td>
+		<td>Destroyer-01 M1 (6레벨)</td>
+	</tr>
+	<tr>
+		<td>Destroyer-01 M2 (6레벨)</td>
+	</tr>
+	<tr>
+		<td>Destroyer-01 M3 (6레벨)</td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+		<tr>
+		<td rowspan="3">Destroyer-02 (9레벨)</td>
+		<td rowspan="3">↔</td>
+		<td>Destroyer-02 M1 (10레벨)</td>
+	</tr>
+	<tr>
+		<td>Destroyer-02 M2 (10레벨)</td>
+	</tr>
+	<tr>
+		<td>Destroyer-02 M3 (10레벨)</td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Frigate-X (22레벨)</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Frigate-Y (25레벨)</td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
 
 ## 2. 함선 목록
 
