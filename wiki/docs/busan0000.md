@@ -1,9 +1,9 @@
 # 부산 프리깃
 
-상위 문서 : [중립 테크 트리](중립 테크 트리)
+상위 문서 : [중립 테크 트리](neutraltree)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-19 17:25:53 +0900
+updated : 2021-03-19 17:38:09 +0900
 
 ---
 
@@ -55,49 +55,7 @@ updated : 2021-03-19 17:25:53 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<td rowspan="3">Destroyer-01 (5레벨)</td>
-		<td rowspan="3">↔</td>
-		<td>Destroyer-01 M1 (6레벨)</td>
-	</tr>
-	<tr>
-		<td>Destroyer-01 M2 (6레벨)</td>
-	</tr>
-	<tr>
-		<td>Destroyer-01 M3 (6레벨)</td>
-	</tr>
-	<tr>
-		<td>↓</td>
-		<td></td>
-		<td></td>
-	</tr>
-		<tr>
-		<td rowspan="3">Destroyer-02 (9레벨)</td>
-		<td rowspan="3">↔</td>
-		<td>Destroyer-02 M1 (10레벨)</td>
-	</tr>
-	<tr>
-		<td>Destroyer-02 M2 (10레벨)</td>
-	</tr>
-	<tr>
-		<td>Destroyer-02 M3 (10레벨)</td>
-	</tr>
-	<tr>
-		<td>↓</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Frigate-X (22레벨)</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>↓</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Frigate-Y (25레벨)</td>
+		<td>[Destroyer-01 (5레벨)](busan0001)</td>
 		<td></td>
 		<td></td>
 	</tr>
