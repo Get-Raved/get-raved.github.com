@@ -3,7 +3,7 @@
 상위 문서 : [중립 테크 트리](neutraltree)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-20 00:28:56 +0900
+updated : 2021-03-20 00:53:25 +0900
 
 ---
 
@@ -207,7 +207,7 @@ FF Engine I (Heavy)|0|0|7|1920|110
 :-:|:-:|:-:|:-:
 FF FCS I (Aiming)|55|800|0
 
-<table>
+<table width="100%">
 	<tr>
 		<th rowspan="2">함재기</th>
 		<th rowspan="2">용적</th>
