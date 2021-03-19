@@ -3,7 +3,7 @@
 상위 문서 : [중립 테크 트리](중립 테크 트리)
 
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-19 16:15:52 +0900
+updated : 2021-03-19 16:32:19 +0900
 
 ---
 
@@ -94,3 +94,38 @@ FF FCS I (Aiming)|55|800
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 없음|||||||||||
 
+<table>
+	<tr align="center" valign="center">
+		<th rowspan="2">함재기</th>
+		<th rowspan="2">용적</th>
+		<th rowspan="2">최대 탑재 수</th>
+		<th rowspan="2">레벨</th>
+		<th rowspan="2">DP</th>
+		<th colspan="2">방어력</th>
+		<th rowspan="2">체공시간(초)</th>
+		<th rowspan="2">시야</th>
+		<th colspan="2">공격력</th>
+		<th rowspan="2">준비 시간</th>
+	</tr>
+	<tr align="center" valign"center">
+		<th>AP</th>
+		<th>HE</th>
+		<th>대함</th>
+		<th>공대공</th>
+	</tr>
+	<tr align="center" valign"center">
+		<td>없음</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
