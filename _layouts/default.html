@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
     {% include head.html %}
-    {% include header.html %}
     <body>
-        <div class="page-content">
-            {% include searchbox.html %}
+    {% include header.html %}
+    {% include searchbox.html %}
             <div class="post">
                 {{ content }}
             </div>
-        </div>
         {% include footer.html %}
     </body>
 </html>
