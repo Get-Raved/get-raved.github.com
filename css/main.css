@@ -7,7 +7,29 @@ $default-font-size : 0.9rem;
 $small-font-size   : $default-font-size * 0.8;
 $base-line-height  : 1.5;
 
-@media (max-width: 1120px) {
-    .wrapper {
+.post {
+
+    padding: 5px;
+
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        border-color: #000000;
+
+        td, th {
+            border: 1px solid #000000;
+            padding: 5px 5px;
+        }
+
+        .n11 {            
+        th {    background: #222222;
+            }
+        }
+        
+        .n12 {
+            width: 100%;
+        th {    background: #222222;
+            }
+        }
     }
 }
