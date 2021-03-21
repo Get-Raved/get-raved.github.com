@@ -19,12 +19,12 @@ footer {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-    border-color: #000000;
+    border-color: #808080;
     width: 100%;
 }
 
 td, th {
-    border: 1px solid #000000;
+    border: 1px solid #808080;
     padding: 5px 5px;
     text-align: center;
 }
