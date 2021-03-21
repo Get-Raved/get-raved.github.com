@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-20 01:42:22 +0900
+updated : 2021-03-22 01:07:12 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -17,7 +17,7 @@ updated : 2021-03-20 01:42:22 +0900
 
 ## 1. 계통도
 
-<table>
+<table class="busantree">
 	<tr>
 		<td rowspan="4">Frigate-01 (1레벨)</td>
 		<td rowspan="4">↔</td>
@@ -99,7 +99,7 @@ updated : 2021-03-20 01:42:22 +0900
 
 ##### 기본 스펙
 
-<table>
+<table class="busanspec">
 	<tr>
 		<th>DP</th>
 		<td>4800</td>
@@ -148,7 +148,7 @@ updated : 2021-03-20 01:42:22 +0900
 
 ##### 주요 컴포넌트
 
-<table>
+<table class="gunarrange">
 	<tr>
 		<th>좌현</th>
 		<th>전방</th>
@@ -209,7 +209,7 @@ FF Engine I (Heavy)|0|0|7|1920|110
 :-:|:-:|:-:|:-:
 FF FCS I (Aiming)|55|800|0
 
-<table>
+<table class="busancomponents">
 	<tr>
 		<th rowspan="2">함재기</th>
 		<th rowspan="2">용적</th>
