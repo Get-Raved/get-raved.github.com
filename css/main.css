@@ -25,6 +25,8 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
     border-color: #808080;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 td, th {
@@ -35,4 +37,8 @@ td, th {
 
 .busancomponents {
     width: 100%;
+    
+    th {
+        background-color: #101010;
+    }
 }
