@@ -24,19 +24,19 @@ body, th, td, div, p, li {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-    border-color: #4040480;
+    border-color: #B0B0B0;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 td, th {
-    border: 1px solid #404040;
+    border: 1px solid #B0B0B0;
     padding: 5px 5px;
     text-align: center;
 }
 
 td {
-    background-color: #101010;
+    background-color: #E0E0E0;
 }
 
 .busancomponents {
@@ -44,6 +44,7 @@ td {
     
     th {
         background-color: #808080;
+        font-color: #FFFFFF;
     }
 }
 
