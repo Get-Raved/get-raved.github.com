@@ -1,3 +1,15 @@
+header {
+    max-width: 1300px;
+}
+
+body {
+    max-width: 1300px;
+}
+
+footer {
+    max-width: 1300px;
+}
+
 div.post {
 
     padding: 5px;
