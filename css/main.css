@@ -39,6 +39,16 @@ td {
     background-color: #E0E0E0;
 }
 
+.busantree {
+    th {
+        background-color: #808080;
+        font-color: #FFFFFF;
+    }
+    td {
+        border: 0px;
+        background-color: #FFFFFF;
+}
+
 .busancomponents {
     width: 100%;
     
@@ -50,30 +60,27 @@ td {
 
 h1 {
     font-size: 2.2em;
-    border-bottom: 1px solid #404040;
+    border-bottom: 1px solid #B0B0B0;
 }
 
 h2 {
     font-size: 1.9em;
-    border-bottom: 1px solid #404040;
+    border-bottom: 1px solid #B0B0B0;
 }
 
 h3 {
     font-size: 1.6em;
-    border-bottom: 1px solid #404040;
+    border-bottom: 1px solid #B0B0B0;
 }
 
 h4 {
     font-size: 1.4em;
-    border-bottom: 1px solid #404040;
 }
 
 h5 {
     font-size: 1.2em;
-    border-bottom: 1px solid #404040;
 }
 
 h6 {
     font-size: 1.1em;
-    border-bottom: 1px solid #404040;
 }
