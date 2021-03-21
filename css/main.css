@@ -35,11 +35,15 @@ td, th {
     text-align: center;
 }
 
+td {
+    background-color: #101010;
+}
+
 .busancomponents {
     width: 100%;
     
     th {
-        background-color: #101010;
+        background-color: #808080;
     }
 }
 
