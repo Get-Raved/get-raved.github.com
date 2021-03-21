@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-22 01:34:41 +0900
+updated : 2021-03-22 01:36:53 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -19,18 +19,18 @@ updated : 2021-03-22 01:34:41 +0900
 
 <table class="busantree">
 	<tr>
-		<th rowspan="4">Frigate-01 (1레벨)</td>
+		<th rowspan="4">Frigate-01 (1레벨)</th>
 		<td rowspan="4">↔</td>
-		<th>Frigate-01 M1 (2레벨)</td>
+		<th>Frigate-01 M1 (2레벨)</th>
 	</tr>
 	<tr>
-		<th>Frigate-01 M2 (2레벨)</td>
+		<th>Frigate-01 M2 (2레벨)</th>
 	</tr>
 	<tr>
-		<th>Frigate-01 M3 (2레벨)</td>
+		<th>Frigate-01 M3 (2레벨)</th>
 	</tr>
 	<tr>
-		<th>Frigate-11 (14레벨)</td>
+		<th>Frigate-11 (14레벨)</th>
 	</tr>
 	<tr>
 		<td>↓</td>
@@ -38,28 +38,18 @@ updated : 2021-03-22 01:34:41 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th rowspan="4">Frigate-02 (3레벨)</td>
+		<th rowspan="4">Frigate-02 (3레벨)</th>
 		<td rowspan="4">↔</td>
-		<th>Frigate-02 M1 (4레벨)</td>
+		<th>Frigate-02 M1 (4레벨)</th>
 	</tr>
 	<tr>
-		<th>Frigate-02 M2 (4레벨)</td>
+		<th>Frigate-02 M2 (4레벨)</th>
 	</tr>
 	<tr>
-		<th>Frigate-02 M3 (4레벨)</td>
+		<th>Frigate-02 M3 (4레벨)</th>
 	</tr>
 	<tr>
-		<th>Frigate-21 (21레벨)</td>
-	</tr>
-	<tr>
-		<td>↓</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">Destroyer-01 (5레벨)</a></td>
-		<td></td>
-		<td></td>
+		<th>Frigate-21 (21레벨)</th>
 	</tr>
 	<tr>
 		<td>↓</td>
@@ -67,7 +57,7 @@ updated : 2021-03-22 01:34:41 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">Destroyer-02 (9레벨)</a></td>
+		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">Destroyer-01 (5레벨)</a></th>
 		<td></td>
 		<td></td>
 	</tr>
@@ -77,7 +67,7 @@ updated : 2021-03-22 01:34:41 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th>FF. Frigate-X (22레벨)</td>
+		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">Destroyer-02 (9레벨)</a></th>
 		<td></td>
 		<td></td>
 	</tr>
@@ -87,7 +77,17 @@ updated : 2021-03-22 01:34:41 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th>FF. Frigate-Y (25레벨)</td>
+		<th>FF. Frigate-X (22레벨)</th>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>FF. Frigate-Y (25레벨)</th>
 		<td></td>
 		<td></td>
 	</tr>
