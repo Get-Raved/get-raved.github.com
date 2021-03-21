@@ -24,13 +24,13 @@ body, th, td, div, p, li {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-    border-color: #808080;
+    border-color: #4040480;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 td, th {
-    border: 1px solid #808080;
+    border: 1px solid #404040;
     padding: 5px 5px;
     text-align: center;
 }
@@ -41,4 +41,34 @@ td, th {
     th {
         background-color: #101010;
     }
+}
+
+h1 {
+    font-size: 2.2em;
+    border-bottom: 1px solid #404040;
+}
+
+h2 {
+    font-size: 1.9em;
+    border-bottom: 1px solid #404040;
+}
+
+h3 {
+    font-size: 1.6em;
+    border-bottom: 1px solid #404040;
+}
+
+h4 {
+    font-size: 1.4em;
+    border-bottom: 1px solid #404040;
+}
+
+h5 {
+    font-size: 1.2em;
+    border-bottom: 1px solid #404040;
+}
+
+h6 {
+    font-size: 1.1em;
+    border-bottom: 1px solid #404040;
 }
