@@ -173,6 +173,7 @@ updated : 2021-03-23 03:04:53 +0900
 		<td></td>
 		<td class="rearmaingun">26</td>
 		<td></td>
+	</tr>
 	<tr>
 		<th colspan="5">후방</th>
 	</tr>
