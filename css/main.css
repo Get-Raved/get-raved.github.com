@@ -48,19 +48,23 @@ td {
 }
 
 .frontmaingun {
-    background-color: #2080FF;
+    background-color: #3060D0;
+    color: #FFFFFF;
 }
 
 .frontsubgun {
-    background-color: #80D0FF;
+    background-color: #5090E0;
+    color: #FFFFFF;
 }
 
 .rearmaingun {
-    background-color: #1DDB16;
+    background-color: #2F9D27;
+    color: #FFFFFF;
 }
 
 .rearsubgun {
-    background-color: #ABF200;
+    background-color: #1DDB16;
+    color: #FFFFFF;
 }
 
 .busantree th {
