@@ -36,12 +36,12 @@ td, th {
 }
 
 td {
-    background-color: #E0E0E0;
+    background-color: #F0F0F0;
 }
 
 .busantree th {
         background-color: #808080;
-        font-color: #FFFFFF;
+        color: #FFFFFF;
 }
 
 .busantree td {
@@ -55,7 +55,7 @@ td {
     
 .busancomponents th {
         background-color: #808080;
-        font-color: #FFFFFF;
+        color: #FFFFFF;
 }
 
 h1 {
