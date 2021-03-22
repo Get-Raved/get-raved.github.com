@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-23 03:04:53 +0900
+updated : 2021-03-23 03:24:48 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -155,7 +155,7 @@ updated : 2021-03-23 03:04:53 +0900
 	<tr>
 		<th rowspan="4">좌현</th>
 		<td></td>
-		<td class="frontmaingun">26</td>
+		<td id="frontmaingun">26</td>
 		<td></td>
 		<th rowspan="4">우현</th>
 	</tr>
@@ -166,12 +166,12 @@ updated : 2021-03-23 03:04:53 +0900
 	</tr>
 	<tr>
 		<td></td>
-		<td class="rearmaingun">26</td>
+		<td id="rearmaingun">26</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td class="rearmaingun">26</td>
+		<td id="rearmaingun">26</td>
 		<td></td>
 	</tr>
 	<tr>
