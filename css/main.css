@@ -49,6 +49,11 @@ td {
         background-color: #FFFFFF;
 }
 
+.busanspec th {
+        background-color: #808080;
+        color: #FFFFFF;
+}
+
 .busancomponents {
     width: 100%;
 }
