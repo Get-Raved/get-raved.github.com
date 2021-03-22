@@ -51,11 +51,11 @@ td {
 
 .busancomponents {
     width: 100%;
+}
     
-    th {
+.busancomponents th {
         background-color: #808080;
         font-color: #FFFFFF;
-    }
 }
 
 h1 {
