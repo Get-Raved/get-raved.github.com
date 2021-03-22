@@ -39,6 +39,29 @@ td {
     background-color: #F8F8F8;
 }
 
+.gunarrange th {
+    background-color: #F8F8F8;
+}
+
+.gunarrange td {
+    background-color: #FFFFFF;
+}
+
+.frontmaingun {
+    background-color: #1DDB16;
+}
+
+.frontsubgun {
+    background-color: #80D0FF;
+}
+
+.rearmaingun {
+    background-color: #ABF200;
+}
+
+.rearsubgun {
+    background-color:
+
 .busantree th {
         background-color: #808080;
         color: #FFFFFF;
