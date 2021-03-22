@@ -39,15 +39,14 @@ td {
     background-color: #E0E0E0;
 }
 
-.busantree {
-    th {
+.busantree th {
         background-color: #808080;
         font-color: #FFFFFF;
-    }
-    td {
+}
+
+.busantree td {
         border: 0px;
         background-color: #FFFFFF;
-    }
 }
 
 .busancomponents {
