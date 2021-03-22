@@ -154,7 +154,7 @@ updated : 2021-03-23 02:50:56 +0900
 	</tr>
 	<tr>
 		<th rowspan="4">좌현</th>
-		<td><td>
+		<td></td>
 		<td class="frontmaingun">26</td>
 		<td></td>
 		<th rowspan="4">우현</th>
