@@ -47,22 +47,22 @@ td {
     background-color: #FFFFFF;
 }
 
-.frontmaingun td {
+#frontmaingun {
     background-color: #3060D0;
     color: #FFFFFF;
 }
 
-.frontsubgun td {
+#frontsubgun {
     background-color: #5090E0;
     color: #FFFFFF;
 }
 
-.rearmaingun td {
+#rearmaingun {
     background-color: #2F9D27;
     color: #FFFFFF;
 }
 
-.rearsubgun td {
+#rearsubgun {
     background-color: #1DDB16;
     color: #FFFFFF;
 }
