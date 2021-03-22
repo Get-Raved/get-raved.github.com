@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-23 02:50:56 +0900
+updated : 2021-03-23 03:04:53 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -276,7 +276,7 @@ updated : 2021-03-23 02:50:56 +0900
 	</tr>
 </table>
 
-<table>
+<table class="busancomponents">
 	<tr>
 		<th>FCS</th>
 		<th>명중 보너스</th>
