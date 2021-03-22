@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-23 02:07:45 +0900
+updated : 2021-03-23 02:49:35 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -97,7 +97,7 @@ updated : 2021-03-23 02:07:45 +0900
 
 ### 2.1. Frigate-01 (1레벨)
 
-##### 기본 스펙
+- 기본 스펙
 
 <table class="busanspec">
 	<tr>
@@ -146,68 +146,152 @@ updated : 2021-03-23 02:07:45 +0900
 	</tr>
 </table>
 
-##### 주요 컴포넌트
+- 함포 배치
 
 <table class="gunarrange">
 	<tr>
-		<th>좌현</th>
-		<th>전방</th>
-		<th>우현</th>
-		<th colspan="2">함포 배열</th>
+		<th colspan="5">전방</th>
+	</tr>
+	<tr>
+		<th rowspan="4">좌현</th>
+		<td><td>
+		<td class="frontmaingun">26</td>
+		<td>
+		<th rowspan="4">우현</th>
 	</tr>
 	<tr>
 		<td></td>
-		<td>26</td>
-		<td></td>
-		<th rowspan="1">주포</th>
-		<th rowspan="2">전방</th>
+		<th>함교<th>
+		</td>
 	</tr>
 	<tr>
 		<td></td>
-		<th rowspan="1">함교</th>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td>26</td>
-		<td></td>
-		<th rowspan="2">주포</th>
-		<th rowspan="2">후방</th>
-	</tr>
-	<tr>
-		<td></td>
-		<td>26</td>
+		<td class="rearmaingun">26</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
-		<th>후방</th>
+		<td class="rearmaingun">26</td>
+		<td></td>
+	<tr>
+		<th colspan="5">후방</th>
+	</tr>
+</table>
+
+- 주요 컴포넌트
+
+<table class="busancomponents">
+	<tr>
+		<th>주요 주포</th>
+		<th>최대 사격 횟수</th>
+		<th>최대 고각</th>
+		<th>사정거리</th>
+		<th>기본 연사 속도(초)</th>
+		<th>무게(톤)</th>
+		<th>제한 레벨</th>
+		<th>필요 병종</th>
+	</tr>
+	<tr>
+		<td>3"/40 cal Mark ZII</td>
+		<td>500</td>
+		<td>70</td>
+		<td>0</td>
+		<td>1.28</td>
+		<td>6.836</td>
+		<td>1</td>
+		<td>일반수병</td>
+	</tr>
+</table>	
+
+<table class="busancomponents">
+	<tr>
+		<th>주요 부포</th>
+		<th>최대 사격 횟수</th>
+		<th>최대 고각</th>
+		<th>황금각</th>
+		<th>사정거리</th>
+		<th>기본 연사 속도(초)</th>
+		<th>무게(톤)</th>
+		<th>제한 레벨</th>
+		<th>필요 병종</th>
+	</tr>
+	<tr>
+		<td>없음</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
 </table>
 
-**주요 주포**|**최대 사격 횟수**|**최대 고각**|**사정거리**|**기본 연사 속도**|**무게(톤)**|**제한 레벨**|**필요 병종**
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-3"/40 cal Mark ZII|500|70|0|1.28|6.836|1|일반수병
+<table class="busancomponents">
+	<tr>
+		<th rowspan="2">주요 어뢰 발사관</th>
+		<th rowspan="2">최대 어뢰 수</th>
+		<th rowspan="2">기본 연사 속도(초)</th>
+		<th colspan="2">어뢰 속도</th>
+		<th colspan="2">어뢰 사정거리</th>
+		<th rowspan="2">무게(톤)</th>
+		<th rowspan="2">제한 레벨</th>
+	</tr>
+	<tr>
+		<th>저속</th>
+		<th>고속</th>
+		<th>저속</th>
+		<th>고속</th>
+	</tr>
+	<tr>
+		<td>없음</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
 
-**주요 부포**|**최대 사격 횟수**|**최대 고각**|**사정거리**|**기본 연사 속도**|**무게(톤)**|**제한 레벨**|**필요 병종**
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-없음|||||||
+<table class="busancomponents">
+	<tr>
+		<th>주요 엔진</th>
+		<th>기본 속력</th>
+		<th>최대 속력</th>
+		<th>오버힛 지속시간</th>
+		<th>오버힛 가능 최소 DP</th>
+		<th>무게(톤)</th>
+	</tr>
+	<tr>
+		<td>FF Engine I (Heavy)</td>
+		<td>0</td>
+		<td>0</td>
+		<td>7</td>
+		<td>1920</td>
+		<td>110</td>
+	</tr>
+</table>
 
-**주요 어뢰 발사관**|**최대 어뢰 수**|**사정거리**|**기본 연사 속도**|**무게(톤)**|**제한 레벨**|**필요 병종**
-:-:|:-:|:-:|:-:|:-:|:-:|:-:
-없음||||||
-
-**주요 엔진**|**기본 속력**|**최대 속력**|**오버힛 지속시간**|**오버힛 가능 최소 DP**|**무게(톤)**
-:-:|:-:|:-:|:-:|:-:|:-:
-FF Engine I (Heavy)|0|0|7|1920|110
-
-**FCS**|**명중 보너스**|**착탄 보정 거리**|**어뢰 탐지 거리**
-:-:|:-:|:-:|:-:
-FF FCS I (Aiming)|55|800|0
+<table>
+	<tr>
+		<th>FCS</th>
+		<th>명중 보너스</th>
+		<th>착탄 보정 거리</th>
+		<th>어뢰 탐지 거리</th>
+		<th>무게(톤)</th>
+	</tr>
+	<tr>
+		<td>FF FCS I (Aiming)</td>
+		<td>55</td>
+		<td>800</td>
+		<td>700</td>
+		<td>70</td>
+	</tr>
+</table>
 
 <table class="busancomponents">
 	<tr>
