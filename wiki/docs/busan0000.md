@@ -1,9 +1,9 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-24 02:58:20
+updated : 2021-03-24 03:11:53
 </div>
 
-<img src="/images/parenticon.png" alt="상위 문서 아이콘"> 상위 문서 : [중립 테크 트리](neutraltree)
+<img src="https://get-raved.github.io/wiki/images/parenticon.png" alt="상위 문서 아이콘"> 상위 문서 : [중립 테크 트리](neutraltree)
 
 ***
 
