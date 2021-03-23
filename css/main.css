@@ -146,6 +146,22 @@ a {
     color: #FFFFFF;
 }
 
+#frontmaingun2 {
+    color: #3060D0;
+}
+
+#frontsubgun2 {
+    color: #5090E0;
+}
+
+#rearmaingun2 {
+    color: #2F9D27;
+}
+
+#rearsubgun2 {
+    color: #1DDB16;
+}
+
 .busantree th {
         background-color: var(--color-busan);
         color: #FFFFFF;
