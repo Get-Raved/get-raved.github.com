@@ -172,3 +172,8 @@ h5 {
 h6 {
     font-size: 1.1em;
 }
+
+a {
+    color: #8EB4E3;
+    text-decoration: none;
+}
