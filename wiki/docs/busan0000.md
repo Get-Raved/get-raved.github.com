@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-23 23:03:35 +0900
+updated : 2021-03-23 23:06:35 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -15,7 +15,7 @@ updated : 2021-03-23 23:03:35 +0900
 
 ***
 
-{ include template-techtree.html %}
+{% include template-techtree.html %}
 
 ## 1. 계통도
 
