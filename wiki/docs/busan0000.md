@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-24 03:23:01
+updated : 2021-03-24 03:25:52
 </div>
 
 <img src="https://get-raved.github.io/wiki/images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -109,8 +109,10 @@ updated : 2021-03-24 03:23:01
 
 ### 2.1. Frigate-01 (1레벨)
 
-- 기본 스펙
+<details>
+	<summary><ul><li>함선 기본 스펙 펼치기/접기</li></ul>
 
+<p>
 <table class="busanspec">
 	<tr>
 		<th>DP</th>
@@ -157,6 +159,8 @@ updated : 2021-03-24 03:23:01
 		<td>1</td>
 	</tr>
 </table>
+</p>
+</details>
 
 - 함포 배치
 
