@@ -38,6 +38,10 @@ footer {
     background-color: #8EB4E3;
 }
 
+#imagemiddle {
+    vertical-align: middle;
+}
+
 body, th, td, div, p, li {
     font-size: 0.9rem;
     line-height: 1.5;
