@@ -39,6 +39,18 @@ td {
     background-color: #F8F8F8;
 }
 
+.totaltree {
+    width: 100%;
+}
+
+.totaltree th {
+    color: #FFFFFF;
+}
+    
+#treetitle {
+    background-color: #303030;
+}
+
 .gunarrange th {
     background-color: #F8F8F8;
 }
