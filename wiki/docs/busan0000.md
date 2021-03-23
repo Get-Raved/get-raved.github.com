@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-24 03:34:28
+updated : 2021-03-24 03:39:01
 </div>
 
 <img src="https://get-raved.github.io/wiki/images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -198,8 +198,9 @@ updated : 2021-03-24 03:34:28
 </p>
 </details>
 
-- 주요 컴포넌트
-
+<details>
+<summary>주요 컴포넌트</summary>
+<p>
 <table class="busancomponents">
 	<tr>
 		<th>주요 주포</th>
@@ -351,3 +352,5 @@ updated : 2021-03-24 03:34:28
 		<td></td>
 	</tr>
 </table>
+</p>
+</details>
