@@ -1,13 +1,16 @@
+var data = [ {title : "부산 프리깃 및 구축함"} ];
+
 <div class="title">
 부산 프리깃 및 구축함
 </div>
 
 <div class="update">
-updated : 2021-03-24 01:03:15
+updated : 2021-03-24 01:22:26
 </div>
 
 상위 문서 : [중립 테크 트리](neutraltree)
 
+<div>
 ***
 
 목차
@@ -15,6 +18,7 @@ updated : 2021-03-24 01:03:15
 {:toc}
 
 ***
+</div>
 
 {% include template-techtree.html %}
 
