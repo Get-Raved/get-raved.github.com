@@ -1,9 +1,9 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-24 01:41:31
+updated : 2021-03-24 02:49:44
 </div>
 
-상위 문서 : [중립 테크 트리](neutraltree)
+<div class="parenticon">▲</div> 상위 문서 : [중립 테크 트리](neutraltree)
 
 ***
 
