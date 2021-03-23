@@ -1,7 +1,3 @@
-* {
-    background-color: #EFEFEF;
-}
-
 :root {
     --color-busan: #808080;
     --color-usn: #808080;
@@ -29,12 +25,10 @@ body {
     max-width: 1150px;
     margin-left: auto;
     margin-right: auto;
-    border-left: 1px;
-    border-right: 1px;
-    border-color: #B0B0B0;
+    border-left: 1px solid #B0B0B0;
+    border-right: 1px solid #B0B0B0;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #FFFFFF;
 }
 
 footer {
