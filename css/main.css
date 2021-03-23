@@ -51,6 +51,49 @@ td {
     background-color: #303030;
 }
 
+:root {
+    --color-busan: #808080;
+    --color-usn: #808080;
+    --color-rn: #808080;
+    --color-ijn: #808080;
+    --color-km: #808080;
+    --color-mn: #808080;
+    --color-sn: #808080;
+    --color-rm: #808080;
+}
+
+#treetotalbusan {
+    background-color: var(--color-busan);
+}
+
+#treetotalusn {
+    background-color: var(--color-usn);
+}
+
+#treetotalrn {
+    background-color: var(--color-rn);
+}
+
+#treetotalijn {
+    background-color: var(--color-ijn);
+}
+
+#treetotalkm {
+    background-color: var(--color-km);
+}
+
+#treetotalmn {
+    background-color: var(--color-mn);
+}
+
+#treetotalsn {
+    background-color: var(--color-sn);
+}
+
+#treetotalrm {
+    background-color: var(--color-rm);
+}
+
 .gunarrange th {
     background-color: #F8F8F8;
 }
@@ -80,7 +123,7 @@ td {
 }
 
 .busantree th {
-        background-color: #808080;
+        background-color: var(--color-busan);
         color: #FFFFFF;
 }
 
@@ -90,7 +133,7 @@ td {
 }
 
 .busanspec th {
-        background-color: #808080;
+        background-color: var(--color-busan);
         color: #FFFFFF;
 }
 
@@ -99,7 +142,7 @@ td {
 }
     
 .busancomponents th {
-        background-color: #808080;
+        background-color: var(--color-busan);
         color: #FFFFFF;
 }
 
