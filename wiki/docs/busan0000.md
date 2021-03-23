@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-23 03:24:48 +0900
+updated : 2021-03-23 23:03:35 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -14,6 +14,8 @@ updated : 2021-03-23 03:24:48 +0900
 {:toc}
 
 ***
+
+{ include template-techtree.html %}
 
 ## 1. 계통도
 
@@ -57,7 +59,7 @@ updated : 2021-03-23 03:24:48 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">DD. Destroyer-01 (5레벨)</a></th>
+		<th>[DD. Destroyer-01 (5레벨)](busan0001)</a></th>
 		<td></td>
 		<td></td>
 	</tr>
@@ -67,7 +69,7 @@ updated : 2021-03-23 03:24:48 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">DD. Destroyer-02 (9레벨)</a></th>
+		<th>[DD. Destroyer-02 (9레벨)](busan0001)</a></th>
 		<td></td>
 		<td></td>
 	</tr>
@@ -238,6 +240,7 @@ updated : 2021-03-23 03:24:48 +0900
 		<th colspan="2">어뢰 사정거리</th>
 		<th rowspan="2">무게(톤)</th>
 		<th rowspan="2">제한 레벨</th>
+		<th rowspan="2">필요 병종</th>
 	</tr>
 	<tr>
 		<th>저속</th>
@@ -255,6 +258,7 @@ updated : 2021-03-23 03:24:48 +0900
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 </table>
 
@@ -263,7 +267,7 @@ updated : 2021-03-23 03:24:48 +0900
 		<th>주요 엔진</th>
 		<th>기본 속력</th>
 		<th>최대 속력</th>
-		<th>오버힛 지속시간</th>
+		<th>오버힛 지속시간(초)</th>
 		<th>오버힛 가능 최소 DP</th>
 		<th>무게(톤)</th>
 	</tr>
@@ -302,9 +306,10 @@ updated : 2021-03-23 03:24:48 +0900
 		<th rowspan="2">레벨</th>
 		<th rowspan="2">DP</th>
 		<th colspan="2">방어력</th>
-		<th rowspan="2">체공시간(초)</th>
+		<th rowspan="2">속력</th>
 		<th rowspan="2">시야</th>
 		<th colspan="2">공격력</th>
+		<th rowspan="2">체공시간(초)</th>
 		<th rowspan="2">준비 시간</th>
 	</tr>
 	<tr>
@@ -315,6 +320,7 @@ updated : 2021-03-23 03:24:48 +0900
 	</tr>
 	<tr>
 		<td>없음</td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
