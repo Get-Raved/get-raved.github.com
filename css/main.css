@@ -1,7 +1,28 @@
+* {
+    background-color: #EFEFEF;
+}
+
+:root {
+    --color-busan: #808080;
+    --color-usn: #808080;
+    --color-rn: #808080;
+    --color-ijn: #808080;
+    --color-km: #808080;
+    --color-mn: #808080;
+    --color-sn: #808080;
+    --color-rm: #808080;
+    --color-underbar: #9A9A9A;
+}
+
 header {
     max-width: 1150px;
     margin-left: auto;
     margin-right: auto;
+    background-color: #8EB4E3;
+}
+
+searchbox {
+    background-color: #8EB4E3;
 }
 
 body {
@@ -18,10 +39,7 @@ footer {
     max-width: 1150px;
     margin-left: auto;
     margin-right: auto;
-}
-
-.outer-background {
-    background-color: #EFEFEF;
+    background-color: #8EB4E3;
 }
 
 .page-content {
@@ -70,18 +88,6 @@ a {
     
 #treetitle {
     background-color: #303030;
-}
-
-:root {
-    --color-busan: #808080;
-    --color-usn: #808080;
-    --color-rn: #808080;
-    --color-ijn: #808080;
-    --color-km: #808080;
-    --color-mn: #808080;
-    --color-sn: #808080;
-    --color-rm: #808080;
-    --color-underbar: #9A9A9A;
 }
 
 #treetotalbusan {
