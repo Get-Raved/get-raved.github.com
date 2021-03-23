@@ -147,30 +147,6 @@ a {
     color: #FFFFFF;
 }
 
-#frontmaingun2 {
-    color: #3060D0;
-    font-size: 1.4em;
-    white-space: pre-wrap;
-}
-
-#frontsubgun2 {
-    color: #5090E0;
-    font-size: 1.4em;
-    white-space: pre-wrap;
-}
-
-#rearmaingun2 {
-    color: #2F9D27;
-    font-size: 1.4em;
-    white-space: pre-wrap;
-}
-
-#rearsubgun2 {
-    color: #1DDB16;
-    font-size: 1.4em;
-    white-space: pre-wrap;
-}
-
 .busantree th {
         background-color: var(--color-busan);
         color: #FFFFFF;
