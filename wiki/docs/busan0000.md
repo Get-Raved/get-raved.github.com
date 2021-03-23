@@ -3,7 +3,7 @@
 updated : 2021-03-24 03:52:45
 </div>
 
-<img src="https://get-raved.github.io/wiki/images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
+<img src="/images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
 
 ***
 
