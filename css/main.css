@@ -20,6 +20,10 @@ footer {
     margin-right: auto;
 }
 
+.outer-background {
+    background-color: #EFEFEF;
+}
+
 .page-content {
     background-color: #FFFFFF;
 }
