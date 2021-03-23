@@ -16,6 +16,14 @@ footer {
     margin-right: auto;
 }
 
+.page-content {
+    background-color: #EFEFEF;
+}
+
+.post {
+    background-color: #FFFFFF;
+}
+
 body, th, td, div, p, li {
     font-size: 0.9rem;
     line-height: 1.5;
