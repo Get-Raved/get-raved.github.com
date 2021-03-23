@@ -39,6 +39,11 @@ td {
     background-color: #F8F8F8;
 }
 
+a {
+    color: #2087E0;
+    text-decoration: none;
+}
+
 .totaltree {
     width: 100%;
 }
@@ -172,9 +177,4 @@ h5 {
 
 h6 {
     font-size: 1.1em;
-}
-
-a {
-    color: #2087E0;
-    text-decoration: none;
 }
