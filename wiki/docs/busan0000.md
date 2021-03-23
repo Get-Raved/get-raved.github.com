@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-24 03:47:49
+updated : 2021-03-24 03:52:45
 </div>
 
 <img src="https://get-raved.github.io/wiki/images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -17,9 +17,6 @@ updated : 2021-03-24 03:47:49
 
 ## 1. 계통도
 
-<details>
-<summary>계통도 펼치기/접기</summary>
-<p>
 <table class="busantree">
 	<tr>
 		<th rowspan="4">FF. Frigate-01 (1레벨)</th>
@@ -107,8 +104,6 @@ updated : 2021-03-24 03:47:49
 		<td></td>
 	</tr>
 </table>
-</p>
-</details>
 
 ## 2. 함선 목록
 
