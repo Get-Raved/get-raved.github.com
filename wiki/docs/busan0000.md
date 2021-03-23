@@ -1,8 +1,8 @@
-# 부산 프리깃
+# 부산 프리깃 및 구축함
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-23 23:16:00 +0900
+updated : 2021-03-23 23:47:47 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -59,9 +59,15 @@ updated : 2021-03-23 23:16:00 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">DD. Destroyer-01 (5레벨)</a></th>
-		<td></td>
-		<td></td>
+		<th rowspan="3">DD. Destroyer-01 (5레벨)</th>
+		<td rowspan="3">↔</td>
+		<th>DD. Destroyer-01 M1 (6레벨)</th>
+	</tr>
+	<tr>
+		<th>DD. Destroyer-01 M2 (6레벨)</th>
+	</tr>
+	<tr>
+		<th>DD. Destroyer-01 M3 (6레벨)</th>
 	</tr>
 	<tr>
 		<td>↓</td>
@@ -69,9 +75,15 @@ updated : 2021-03-23 23:16:00 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th><a href="https://get-raved.github.io/wiki/docs/busan0001">DD. Destroyer-02 (9레벨)</a></th>
-		<td></td>
-		<td></td>
+		<th rowspan="3">DD. Destroyer-02 (9레벨)</th>
+		<td rowspan="3">↔</td>
+		<th>DD. Destroyer-02 M1 (10레벨)</th>
+	</tr>
+	<tr>
+		<th>DD. Destroyer-02 M2 (10레벨)</th>
+	</tr>
+	<tr>
+		<th>DD. Destroyer-02 M3 (10레벨)</th>
 	</tr>
 	<tr>
 		<td>↓</td>
