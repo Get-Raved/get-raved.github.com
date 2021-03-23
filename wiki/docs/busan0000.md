@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-24 03:39:01
+updated : 2021-03-24 03:44:12
 </div>
 
 <img src="https://get-raved.github.io/wiki/images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -194,7 +194,19 @@ updated : 2021-03-24 03:39:01
 		<th colspan="5">후방</th>
 	</tr>
 </table>
-<div id="frontmaingun2">■</div>전방 주포 <div id="rearmaingun2">■</div>후방 주포 <div id="frontsubgun2">■</div>전방 부포 <div id="rearsubgun2">■</div>후방 부포
+
+<table>
+	<tr>
+		<td id="frontmaingun"></td>
+		<td>전방 주포</td>
+		<td id="rearmaingun"></td>
+		<td>후방 주포</td>
+		<td id="frontsubgun"></td>
+		<td>전방 부포</td>
+		<td id="rearsubgun"></td>
+		<td>후방 부포</td>
+	</tr>
+</table>
 </p>
 </details>
 
