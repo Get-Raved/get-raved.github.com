@@ -1,6 +1,10 @@
-# 부산 프리깃 및 구축함
+<div class="title">
+부산 프리깃 및 구축함
+</div>
 
-updated : 2021-03-24 00:48:38
+<div class="update">
+updated : 2021-03-24 01:03:15
+</div>
 
 상위 문서 : [중립 테크 트리](neutraltree)
 
@@ -14,7 +18,7 @@ updated : 2021-03-24 00:48:38
 
 {% include template-techtree.html %}
 
-## 1. 계통도
+# 1. 계통도
 
 <table class="busantree">
 	<tr>
@@ -104,9 +108,9 @@ updated : 2021-03-24 00:48:38
 	</tr>
 </table>
 
-## 2. 함선 목록
+# 2. 함선 목록
 
-### 2.1. Frigate-01 (1레벨)
+## 2.1. Frigate-01 (1레벨)
 
 - 기본 스펙
 
