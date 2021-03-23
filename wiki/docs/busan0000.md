@@ -15,8 +15,6 @@ updated : 2021-03-23 23:16:00 +0900
 
 ***
 
-{% include template-techtree.html %}
-
 ## 1. 계통도
 
 <table class="busantree">
