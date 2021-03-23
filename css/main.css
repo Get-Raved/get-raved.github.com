@@ -44,11 +44,15 @@ a {
     text-decoration: none;
 }
 
+#white {
+    color: #FFFFFF;
+}
+
 .totaltree {
     width: 100%;
 }
 
-div .totaltree th {
+.totaltree th {
     color: #FFFFFF;
 }
     
