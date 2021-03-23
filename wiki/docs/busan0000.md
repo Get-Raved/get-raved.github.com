@@ -2,7 +2,7 @@
 
 ---
 date : 2021-03-18 13:57:32 +0900\
-updated : 2021-03-23 23:06:35 +0900
+updated : 2021-03-23 23:08:42 +0900
 ---
 
 상위 문서 : [중립 테크 트리](neutraltree)
@@ -59,7 +59,7 @@ updated : 2021-03-23 23:06:35 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th>[DD. Destroyer-01 (5레벨)](busan0001)</a></th>
+		<th><a href="https://get-raved.github.io/wiki/docs/busan0001>DD. Destroyer-01 (5레벨)<a></th>
 		<td></td>
 		<td></td>
 	</tr>
@@ -69,7 +69,7 @@ updated : 2021-03-23 23:06:35 +0900
 		<td></td>
 	</tr>
 	<tr>
-		<th>[DD. Destroyer-02 (9레벨)](busan0001)</a></th>
+		<th><a href="https://get-raved.github.io/wiki/docs/busan0001>DD. Destroyer-02 (9레벨)</a></th>
 		<td></td>
 		<td></td>
 	</tr>
