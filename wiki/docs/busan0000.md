@@ -109,7 +109,7 @@ updated : 2021-03-25 02:17:26
 
 ### 2.1. Frigate-01 (1레벨)
 
-<img src="/images/Frigate-01.gif" alt="frigate-01.gif">
+<img src="../images/Frigate-01.gif" alt="frigate-01.gif">
 
 <details>
 <summary>함선 기본 스펙 펼치기/접기</summary>
