@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-25 17:39:41
+updated : 2021-03-25 17:40:37
 </div>
 
 <img src=../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -386,7 +386,7 @@ updated : 2021-03-25 17:39:41
 </p>
 </details>
 
-<div class="paratitle>
+<div class="paratitle">
 개요
 </div>
 
@@ -675,7 +675,7 @@ updated : 2021-03-25 17:39:41
 </p>
 </details>
 
-<div class="paratitle>
+<div class="paratitle">
 개요
 </div>
 
@@ -964,7 +964,7 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 </p>
 </details>
 
-<div class="paratitle>
+<div class="paratitle">
 개요
 </div>
 
@@ -1253,7 +1253,7 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 </p>
 </details>
 
-<div class="paratitle>
+<div class="paratitle">
 개요
 </div>
 
