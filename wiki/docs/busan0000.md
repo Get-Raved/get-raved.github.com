@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-25 16:03:12
+updated : 2021-03-25 16:10:52
 </div>
 
 <img src=../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -221,6 +221,7 @@ updated : 2021-03-25 16:03:12
 		<th>포문 수</th>
 		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
+		<th>황금각</th>
 		<th>사정거리</th>
 		<th>기본 연사 속도(초)</th>
 		<th>무게(톤)</th>
@@ -232,7 +233,8 @@ updated : 2021-03-25 16:03:12
 		<td>1</td>
 		<td>500</td>
 		<td>70</td>
-		<td>0</td>
+		<td></td>
+		<td>802</td>
 		<td>1.28</td>
 		<td>6.836</td>
 		<td>1</td>
@@ -243,6 +245,7 @@ updated : 2021-03-25 16:03:12
 <table class="busancomponents">
 	<tr>
 		<th>주요 부포</th>
+		<th>포문 수</th>
 		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
 		<th>황금각</th>
@@ -254,6 +257,7 @@ updated : 2021-03-25 16:03:12
 	</tr>
 	<tr>
 		<td>없음</td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -300,9 +304,9 @@ updated : 2021-03-25 16:03:12
 	<tr>
 		<th rowspan="2">주요 엔진</th>
 		<th colspan="2">만재 배수량 기준</th>
-		<th rowspan="2">주오버힛 지속시간(초)</th>
-		<th rowspan="2">주오버힛 가능 최소 DP</th>
-		<th rowspan="2">주무게(톤)</th>
+		<th rowspan="2">오버힛 지속시간(초)</th>
+		<th rowspan="2">오버힛 가능 최소 DP</th>
+		<th rowspan="2">무게(톤)</th>
 	</tr>
 	<tr>
 		<th>기본 속력</th>
@@ -310,8 +314,8 @@ updated : 2021-03-25 16:03:12
 	</tr>
 	<tr>
 		<td>FF Engine I (Heavy)</td>
-		<td>0</td>
-		<td>0</td>
+		<td>42</td>
+		<td>51</td>
 		<td>7</td>
 		<td>1920</td>
 		<td>110</td>
