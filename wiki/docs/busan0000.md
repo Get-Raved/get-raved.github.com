@@ -1,9 +1,9 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-25 02:17:26
+updated : 2021-03-25 15:32:28
 </div>
 
-<img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
+<img src=../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
 
 ***
 
@@ -218,6 +218,7 @@ updated : 2021-03-25 02:17:26
 <table class="busancomponents">
 	<tr>
 		<th>주요 주포</th>
+		<th>포문 수</th>
 		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
 		<th>사정거리</th>
@@ -228,6 +229,7 @@ updated : 2021-03-25 02:17:26
 	</tr>
 	<tr>
 		<td>3"/40 cal Mark ZII</td>
+		<td>1</td>
 		<td>500</td>
 		<td>70</td>
 		<td>0</td>
