@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-25 16:10:52
+updated : 2021-03-25 16:19:18
 </div>
 
 <img src=../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -120,8 +120,8 @@ updated : 2021-03-25 16:10:52
 		<td>4800</td>
 	</tr>
 	<tr>
-		<th>선회력</th>
-		<td>38</td>
+		<th>탑승 레벨</th>
+		<th>1</th>
 	</tr>
 	<tr>
 		<th>기본 배수량</th>
@@ -130,6 +130,10 @@ updated : 2021-03-25 16:10:52
 	<tr>
 		<th>만재 배수량</th>
 		<td>1600</td>
+	</tr>
+	<tr>
+		<th>선회력</th>
+		<td>38</td>
 	</tr>
 	<tr>
 		<th>대미지 감소</th>
