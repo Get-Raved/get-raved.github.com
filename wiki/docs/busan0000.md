@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-25 15:32:28
+updated : 2021-03-25 16:03:12
 </div>
 
 <img src=../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -298,12 +298,15 @@ updated : 2021-03-25 15:32:28
 
 <table class="busancomponents">
 	<tr>
-		<th>주요 엔진</th>
+		<th rowspan="2">주요 엔진</th>
+		<th colspan="2">만재 배수량 기준</th>
+		<th rowspan="2">주오버힛 지속시간(초)</th>
+		<th rowspan="2">주오버힛 가능 최소 DP</th>
+		<th rowspan="2">주무게(톤)</th>
+	</tr>
+	<tr>
 		<th>기본 속력</th>
-		<th>최대 속력</th>
-		<th>오버힛 지속시간(초)</th>
-		<th>오버힛 가능 최소 DP</th>
-		<th>무게(톤)</th>
+		<th>최대 속력</th>	
 	</tr>
 	<tr>
 		<td>FF Engine I (Heavy)</td>
@@ -370,3 +373,9 @@ updated : 2021-03-25 15:32:28
 </table>
 </p>
 </details>
+
+##### 개요
+
+네이비필드에서 최초로 탑승할 수 있는 함선이다.
+
+
