@@ -189,7 +189,9 @@ a {
 }
 
 .paratitle {
+    padding-top: 20px;
     font-size: 1.2em;
+    font-weight: bold;
 }
 
 h1 {
