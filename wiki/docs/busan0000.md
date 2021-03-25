@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-25 16:28:24
+updated : 2021-03-25 17:21:30
 </div>
 
 <img src=../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -121,7 +121,7 @@ updated : 2021-03-25 16:28:24
 	</tr>
 	<tr>
 		<th>탑승 레벨</th>
-		<th>1</th>
+		<td>1</td>
 	</tr>
 	<tr>
 		<th>기본 배수량</th>
@@ -165,7 +165,7 @@ updated : 2021-03-25 16:28:24
 	</tr>
 	<tr>
 		<th>가격</th>
-		<th>30</th>
+		<td>30</td>
 	</tr>
 </table>
 </p>
@@ -404,7 +404,7 @@ updated : 2021-03-25 16:28:24
 	</tr>
 	<tr>
 		<th>탑승 레벨</th>
-		<th>2</th>
+		<td>2</td>
 	</tr>
 	<tr>
 		<th>기본 배수량</th>
@@ -445,6 +445,14 @@ updated : 2021-03-25 16:28:24
 	<tr>
 		<th>보조병 수</th>
 		<td>1</td>
+	</tr>
+	<tr>
+		<th>가격</th>
+		<td>30</td>
+	</tr>
+	<tr>
+		<th>개장 비용</th>
+		<td>0</td>
 	</tr>
 </table>
 </p>
