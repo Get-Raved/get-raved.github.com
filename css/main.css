@@ -188,6 +188,10 @@ a {
     text-align: right;
 }
 
+.paratitle {
+    font-size: 1.2em;
+}
+
 h1 {
     font-size: 2.2em;
     border-bottom: none;
