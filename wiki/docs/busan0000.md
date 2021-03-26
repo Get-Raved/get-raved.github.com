@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-25 17:43:18
+updated : 2021-03-26 15:00:58
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -82,6 +82,34 @@ updated : 2021-03-25 17:43:18
 	</tr>
 	<tr>
 		<th>DD. Destroyer-02 M3 (10레벨)</th>
+	</tr>
+	<tr>
+		<td>↓</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td rowspan="7">(국적 선택)</td>
+		<td rowspan="7">→</td>
+		<th id="treetotalusn">미국 DD. Fletcher (12레벨)</td>
+	</tr>
+	<tr>
+		<th id="treetotalrn">영국 DD. O class (12레벨)</td>
+	</tr>
+	<tr>
+		<th id="treetotalijn">일본 DD. Kagero (12레벨)</td>
+	</tr>
+	<tr>
+		<th id="treetotalkm">독일 DD. Z1 Class (12레벨)</td>
+	</tr>
+	<tr>
+		<th id="treetotalmn">프랑스 DD. Jaguar (12레벨)</td>
+	</tr>
+	<tr>
+		<th id="treetotalsn">소련 DD. Storozevoj (12레벨)</td>
+	</tr>
+	<tr>
+		<th id="treetotalrm">이탈리아 DD. Leone (12레벨)</td>
 	</tr>
 	<tr>
 		<td>↓</td>
