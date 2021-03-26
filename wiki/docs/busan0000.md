@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-26 16:00:42
+updated : 2021-03-26 16:20:57
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -1097,3 +1097,222 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 </div>
 
 Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 전방 주포 1문, 후방 주포 2문 판정이므로 주포병은 그대로 2명이 탑승한다. 단, 전방 주포로 판정되는 함포 역시 후방 주포와 같은 가동범위를 가지므로 후방으로는 자유롭게 사격이 가능하나 전방을 향해서는 일정 부분 사각이 존재한다.
+
+### 2.2. Frigate-02 (3레벨)
+
+<img src="../images/Frigate-02.gif" alt="Frigate-02.gif">
+
+<details>
+<summary>함선 기본 스펙 펼치기/접기</summary>
+<p>
+<table class="busanspec">
+	<tr>
+		<th>DP</th>
+		<td>4200</td>
+	</tr>
+	<tr>
+		<th>탑승 레벨</th>
+		<td>3</td>
+	</tr>
+	<tr>
+		<th>기본 배수량</th>
+		<td>1043</td>
+	</tr>
+	<tr>
+		<th>만재 배수량</th>
+		<td>1650</td>
+	</tr>
+	<tr>
+		<th>선회력</th>
+		<td>41</td>
+	</tr>
+	<tr>
+		<th>대미지 감소</th>
+		<td>5%</td>
+	</tr>
+	<tr>
+		<th>최대 피격 AP 대미지</th>
+		<td>99</td>
+	</tr>
+	<tr>
+		<th>함재기 동시발진 수</th>
+		<td>0</td>
+	</tr>
+	<tr>
+		<th>함재기 용적</th>
+		<td>0</td>
+	</tr>
+	<tr>
+		<th>주포병 수</th>
+		<td>2</td>
+	</tr>
+	<tr>
+		<th>부포병 수</th>
+		<td>2</td>
+	</tr>
+	<tr>
+		<th>보조병 수</th>
+		<td>0</td>
+	</tr>
+	<tr>
+		<th>가격</th>
+		<td>30</td>
+	</tr>
+	<tr>
+		<th>개장 비용</th>
+		<td>0</td>
+	</tr>
+</table>
+</p>
+</details>
+
+<details>
+<summary>함포 배치 펼치기/접기</summary>
+<p>
+<table class="gunarrange">
+	<tr>
+		<th colspan="5">전방</th>
+	</tr>
+	<tr>
+		<th rowspan="3">좌현</th>
+		<td></td>
+		<td id="frontmaingun">32</td>
+		<td></td>
+		<th rowspan="3">우현</th>
+	</tr>
+	<tr>
+		<td id="frontsubgun">17</td>
+		<th>함교</th>
+		<td id="rearsubgun">17</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td id="rearmaingun">32</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th colspan="5">후방</th>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td id="frontmaingun"></td>
+		<td>전방 주포</td>
+		<td id="rearmaingun"></td>
+		<td>후방 주포</td>
+		<td id="frontsubgun"></td>
+		<td>전방 부포</td>
+		<td id="rearsubgun"></td>
+		<td>후방 부포</td>
+	</tr>
+</table>
+</p>
+</details>
+
+<details>
+<summary>주요 컴포넌트 펼치기/접기</summary>
+<p>
+<table class="busancomponents">
+	<tr>
+		<th>주요 주포</th>
+		<th>포문 수</th>
+		<th>최대 사격 횟수</th>
+		<th>최대 고각</th>
+		<th>사정거리</th>
+		<th>기본 연사 속도(초)</th>
+		<th>무게(톤)</th>
+		<th>제한 레벨</th>
+		<th>필요 병종</th>
+	</tr>
+	<tr>
+		<td>3"/40 cal Mark ZII L</td>
+		<td>1</td>
+		<td>550</td>
+		<td>70</td>
+		<td>884</td>
+		<td>1.4</td>
+		<td>7.52</td>
+		<td>2</td>
+		<td>일반수병</td>
+	</tr>
+</table>	
+
+<table class="busancomponents">
+	<tr>
+		<th rowspan="2">주요 어뢰 발사관</th>
+		<th rowspan="2">최대 어뢰 수</th>
+		<th rowspan="2">기본 연사 속도(초)</th>
+		<th colspan="2">어뢰 속도</th>
+		<th colspan="2">어뢰 사정거리</th>
+		<th rowspan="2">무게(톤)</th>
+		<th rowspan="2">제한 레벨</th>
+		<th rowspan="2">필요 병종</th>
+	</tr>
+	<tr>
+		<th>저속</th>
+		<th>고속</th>
+		<th>저속</th>
+		<th>고속</th>
+	</tr>
+	<tr>
+		<td>21" Mark10 x2 Launcher</td>
+		<td>13</td>
+		<td>28.36</td>
+		<td>36</td>
+		<td>52</td>
+		<td>13000</td>
+		<td>6200</td>
+		<td>70</td>
+		<td>7</td>
+		<td>일반수병</td>
+	</tr>
+</table>
+
+<table class="busancomponents">
+	<tr>
+		<th rowspan="2">주요 엔진</th>
+		<th colspan="2">만재 배수량 기준</th>
+		<th rowspan="2">오버힛 지속시간(초)</th>
+		<th rowspan="2">오버힛 가능 최소 DP</th>
+		<th rowspan="2">무게(톤)</th>
+	</tr>
+	<tr>
+		<th>기본 속력</th>
+		<th>최대 속력</th>	
+	</tr>
+	<tr>
+		<td>FF Engine I (Heavy)</td>
+		<td>44</td>
+		<td>59</td>
+		<td>7</td>
+		<td>1680</td>
+		<td>110</td>
+	</tr>
+</table>
+
+<table class="busancomponents">
+	<tr>
+		<th>FCS</th>
+		<th>명중 보너스</th>
+		<th>착탄 보정 거리</th>
+		<th>어뢰 탐지 거리</th>
+		<th>무게(톤)</th>
+	</tr>
+	<tr>
+		<td>FF FCS II (Aiming)</td>
+		<td>58</td>
+		<td>750</td>
+		<td>750</td>
+		<td>78</td>
+	</tr>
+</table>
+
+</p>
+</details>
+
+<div class="paratitle">
+개요
+</div>
+
+2번째로 탑승 가능한 프리깃이다. Frigate-01에 비해 DP가 낮고 주포탑 수도 부족하나 기동성은 더 높으며, 어뢰발사관을 사용할 수 있다.
