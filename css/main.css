@@ -6,13 +6,13 @@
 
 :root {
     --color-busan: #808080;
-    --color-usn: #808080;
-    --color-rn: #808080;
-    --color-ijn: #808080;
-    --color-km: #808080;
-    --color-mn: #808080;
-    --color-sn: #808080;
-    --color-rm: #808080;
+    --color-usn: #808000;
+    --color-rn: #6B8E23;
+    --color-ijn: #003E14;
+    --color-km: #5D9657;
+    --color-mn: #126978;
+    --color-sn: #556B2F;
+    --color-rm: #967649;
     --color-underbar: #9A9A9A;
 }
 
