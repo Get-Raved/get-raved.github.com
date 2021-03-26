@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-26 16:20:57
+updated : 2021-03-26 16:26:46
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -1241,6 +1241,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 <table class="busancomponents">
 	<tr>
 		<th rowspan="2">주요 어뢰 발사관</th>
+		<th rowspan="2">연장</th>
 		<th rowspan="2">최대 어뢰 수</th>
 		<th rowspan="2">기본 연사 속도(초)</th>
 		<th colspan="2">어뢰 속도</th>
@@ -1257,6 +1258,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 	</tr>
 	<tr>
 		<td>21" Mark10 x2 Launcher</td>
+		<td>2</td>
 		<td>13</td>
 		<td>28.36</td>
 		<td>36</td>
