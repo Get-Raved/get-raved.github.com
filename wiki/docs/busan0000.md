@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-26 16:26:46
+updated : 2021-03-26 16:30:19
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -1046,6 +1046,17 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 		<td>2.44</td>
 		<td>21.8</td>
 		<td>14</td>
+		<td>무국수병</td>
+	</tr>
+	tr>
+		<td>6"/53 cal Mark 13</td>
+		<td>1</td>
+		<td>50</td>
+		<td>20</td>
+		<td>1671</td>
+		<td>3.44</td>
+		<td>49</td>
+		<td>23</td>
 		<td>무국수병</td>
 	</tr>
 </table>
