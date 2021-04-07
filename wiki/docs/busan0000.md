@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-03-26 17:32:02
+updated : 2021-04-08 03:29:10
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -393,64 +393,13 @@ updated : 2021-03-26 17:32:02
 </details>
 
 <details>
-<summary>함포 배치 펼치기/접기</summary>
-<p>
-<table class="gunarrange">
-	<tr>
-		<th colspan="5">전방</th>
-	</tr>
-	<tr>
-		<th rowspan="4">좌현</th>
-		<td></td>
-		<td id="frontmaingun">29</td>
-		<td></td>
-		<th rowspan="4">우현</th>
-	</tr>
-	<tr>
-		<td></td>
-		<th>함교</th>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">29</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">29</td>
-		<td></td>
-	</tr>
-	<tr>
-		<th colspan="5">후방</th>
-	</tr>
-</table>
-
-<table>
-	<tr>
-		<td id="frontmaingun"></td>
-		<td>전방 주포</td>
-		<td id="rearmaingun"></td>
-		<td>후방 주포</td>
-		<td id="frontsubgun"></td>
-		<td>전방 부포</td>
-		<td id="rearsubgun"></td>
-		<td>후방 부포</td>
-	</tr>
-</table>
-</p>
-</details>
-
-<details>
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
 	<tr>
 		<th>주요 주포</th>
 		<th>포문 수</th>
-		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
-		<th>사정거리</th>
 		<th>기본 연사 속도(초)</th>
 		<th>무게(톤)</th>
 		<th>제한 레벨</th>
@@ -459,9 +408,7 @@ updated : 2021-03-26 17:32:02
 	<tr>
 		<td>3"/40 cal Mark ZII L</td>
 		<td>1</td>
-		<td>550</td>
 		<td>70</td>
-		<td>884</td>
 		<td>1.4</td>
 		<td>7.52</td>
 		<td>2</td>
@@ -471,20 +418,13 @@ updated : 2021-03-26 17:32:02
 
 <table class="busancomponents">
 	<tr>
-		<th rowspan="2">주요 엔진</th>
-		<th colspan="2">만재 배수량 기준</th>
-		<th rowspan="2">오버힛 지속시간(초)</th>
-		<th rowspan="2">오버힛 가능 최소 DP</th>
-		<th rowspan="2">무게(톤)</th>
-	</tr>
-	<tr>
-		<th>기본 속력</th>
-		<th>최대 속력</th>	
+		<th>주요 엔진</th>
+		<th>오버힛 지속시간(초)</th>
+		<th>오버힛 가능 최소 DP</th>
+		<th>무게(톤)</th>
 	</tr>
 	<tr>
 		<td>FF Engine I (Heavy)</td>
-		<td>42</td>
-		<td>51</td>
 		<td>7</td>
 		<td>1720</td>
 		<td>110</td>
@@ -586,64 +526,13 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 </details>
 
 <details>
-<summary>함포 배치 펼치기/접기</summary>
-<p>
-<table class="gunarrange">
-	<tr>
-		<th colspan="5">전방</th>
-	</tr>
-	<tr>
-		<th rowspan="4">좌현</th>
-		<td></td>
-		<td id="frontmaingun">26</td>
-		<td></td>
-		<th rowspan="4">우현</th>
-	</tr>
-	<tr>
-		<td></td>
-		<th>함교</th>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">26</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">26</td>
-		<td></td>
-	</tr>
-	<tr>
-		<th colspan="5">후방</th>
-	</tr>
-</table>
-
-<table>
-	<tr>
-		<td id="frontmaingun"></td>
-		<td>전방 주포</td>
-		<td id="rearmaingun"></td>
-		<td>후방 주포</td>
-		<td id="frontsubgun"></td>
-		<td>전방 부포</td>
-		<td id="rearsubgun"></td>
-		<td>후방 부포</td>
-	</tr>
-</table>
-</p>
-</details>
-
-<details>
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
 	<tr>
 		<th>주요 주포</th>
 		<th>포문 수</th>
-		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
-		<th>사정거리</th>
 		<th>기본 연사 속도(초)</th>
 		<th>무게(톤)</th>
 		<th>제한 레벨</th>
@@ -652,9 +541,7 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 	<tr>
 		<td>3"/40 cal Mark ZII L</td>
 		<td>1</td>
-		<td>450</td>
 		<td>70</td>
-		<td>884</td>
 		<td>1.4</td>
 		<td>7.52</td>
 		<td>2</td>
@@ -664,20 +551,13 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 
 <table class="busancomponents">
 	<tr>
-		<th rowspan="2">주요 엔진</th>
-		<th colspan="2">만재 배수량 기준</th>
-		<th rowspan="2">오버힛 지속시간(초)</th>
-		<th rowspan="2">오버힛 가능 최소 DP</th>
-		<th rowspan="2">무게(톤)</th>
-	</tr>
-	<tr>
-		<th>기본 속력</th>
-		<th>최대 속력</th>	
+		<th>주요 엔진</th>
+		<th>오버힛 지속시간(초)</th>
+		<th>오버힛 가능 최소 DP</th>
+		<th>무게(톤)</th>
 	</tr>
 	<tr>
 		<td>FF Engine I (Heavy)</td>
-		<td>42</td>
-		<td>46</td>
 		<td>7</td>
 		<td>2120</td>
 		<td>110</td>
@@ -780,65 +660,13 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 </details>
 
 <details>
-<summary>함포 배치 펼치기/접기</summary>
-<p>
-<table class="gunarrange">
-	<tr>
-		<th colspan="5">전방</th>
-	</tr>
-	<tr>
-		<th rowspan="4">좌현</th>
-		<td></td>
-		<td id="frontmaingun">23</td>
-		<td></td>
-		<th rowspan="4">우현</th>
-	</tr>
-	<tr>
-		<td></td>
-		<th>함교</th>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">23</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">23</td>
-		<td></td>
-	</tr>
-	<tr>
-		<th colspan="5">후방</th>
-	</tr>
-</table>
-
-<table>
-	<tr>
-		<td id="frontmaingun"></td>
-		<td>전방 주포</td>
-		<td id="rearmaingun"></td>
-		<td>후방 주포</td>
-		<td id="frontsubgun"></td>
-		<td>전방 부포</td>
-		<td id="rearsubgun"></td>
-		<td>후방 부포</td>
-	</tr>
-</table>
-
-</p>
-</details>
-
-<details>
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
 	<tr>
 		<th>주요 주포</th>
 		<th>포문 수</th>
-		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
-		<th>사정거리</th>
 		<th>기본 연사 속도(초)</th>
 		<th>무게(톤)</th>
 		<th>제한 레벨</th>
@@ -847,9 +675,7 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 	<tr>
 		<td>3"/40 cal Mark ZII L</td>
 		<td>1</td>
-		<td>350</td>
 		<td>70</td>
-		<td>884</td>
 		<td>1.4</td>
 		<td>7.52</td>
 		<td>2</td>
@@ -859,20 +685,13 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 
 <table class="busancomponents">
 	<tr>
-		<th rowspan="2">주요 엔진</th>
-		<th colspan="2">만재 배수량 기준</th>
-		<th rowspan="2">오버힛 지속시간(초)</th>
-		<th rowspan="2">오버힛 가능 최소 DP</th>
-		<th rowspan="2">무게(톤)</th>
-	</tr>
-	<tr>
-		<th>기본 속력</th>
-		<th>최대 속력</th>	
+		<th>주요 엔진</th>
+		<th>오버힛 지속시간(초)</th>
+		<th>오버힛 가능 최소 DP</th>
+		<th>무게(톤)</th>
 	</tr>
 	<tr>
 		<td>FF Engine I (Heavy)</td>
-		<td>42</td>
-		<td>56</td>
 		<td>7</td>
 		<td>1920</td>
 		<td>110</td>
@@ -974,64 +793,13 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 </details>
 
 <details>
-<summary>함포 배치 펼치기/접기</summary>
-<p>
-<table class="gunarrange">
-	<tr>
-		<th colspan="5">전방</th>
-	</tr>
-	<tr>
-		<th rowspan="4">좌현</th>
-		<td></td>
-		<th>함교</th>
-		<td></td>
-		<th rowspan="4">우현</th>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="frontmaingun">35</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">35</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">35</td>
-		<td></td>
-	</tr>
-	<tr>
-		<th colspan="5">후방</th>
-	</tr>
-</table>
-
-<table>
-	<tr>
-		<td id="frontmaingun"></td>
-		<td>전방 주포</td>
-		<td id="rearmaingun"></td>
-		<td>후방 주포</td>
-		<td id="frontsubgun"></td>
-		<td>전방 부포</td>
-		<td id="rearsubgun"></td>
-		<td>후방 부포</td>
-	</tr>
-</table>
-</p>
-</details>
-
-<details>
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
 	<tr>
 		<th>주요 주포</th>
 		<th>포문 수</th>
-		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
-		<th>사정거리</th>
 		<th>기본 연사 속도(초)</th>
 		<th>무게(톤)</th>
 		<th>제한 레벨</th>
@@ -1040,9 +808,7 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 	<tr>
 		<td>5"/51 cal Mark 16</td>
 		<td>1</td>
-		<td>300</td>
 		<td>40</td>
-		<td>1253</td>
 		<td>2.44</td>
 		<td>21.8</td>
 		<td>14</td>
@@ -1051,9 +817,7 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 	<tr>
 		<td>6"/53 cal Mark 13</td>
 		<td>1</td>
-		<td>50</td>
 		<td>20</td>
-		<td>1671</td>
 		<td>3.44</td>
 		<td>49</td>
 		<td>23</td>
@@ -1063,20 +827,13 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 
 <table class="busancomponents">
 	<tr>
-		<th rowspan="2">주요 엔진</th>
-		<th colspan="2">만재 배수량 기준</th>
-		<th rowspan="2">오버힛 지속시간(초)</th>
-		<th rowspan="2">오버힛 가능 최소 DP</th>
-		<th rowspan="2">무게(톤)</th>
-	</tr>
-	<tr>
-		<th>기본 속력</th>
-		<th>최대 속력</th>	
+		<th>주요 엔진</th>
+		<th>오버힛 지속시간(초)</th>
+		<th>오버힛 가능 최소 DP</th>
+		<th>무게(톤)</th>
 	</tr>
 	<tr>
 		<td>DD Engine I (Heavy)</td>
-		<td>42</td>
-		<td>47</td>
 		<td>8</td>
 		<td>2160</td>
 		<td>220</td>
@@ -1178,59 +935,13 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 </details>
 
 <details>
-<summary>함포 배치 펼치기/접기</summary>
-<p>
-<table class="gunarrange">
-	<tr>
-		<th colspan="5">전방</th>
-	</tr>
-	<tr>
-		<th rowspan="3">좌현</th>
-		<td></td>
-		<td id="frontmaingun">32</td>
-		<td></td>
-		<th rowspan="3">우현</th>
-	</tr>
-	<tr>
-		<td id="frontsubgun">17</td>
-		<th>함교</th>
-		<td id="rearsubgun">17</td>
-	</tr>
-	<tr>
-		<td></td>
-		<td id="rearmaingun">32</td>
-		<td></td>
-	</tr>
-	<tr>
-		<th colspan="5">후방</th>
-	</tr>
-</table>
-
-<table>
-	<tr>
-		<td id="frontmaingun"></td>
-		<td>전방 주포</td>
-		<td id="rearmaingun"></td>
-		<td>후방 주포</td>
-		<td id="frontsubgun"></td>
-		<td>전방 부포</td>
-		<td id="rearsubgun"></td>
-		<td>후방 부포</td>
-	</tr>
-</table>
-</p>
-</details>
-
-<details>
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
 	<tr>
 		<th>주요 주포</th>
 		<th>포문 수</th>
-		<th>최대 사격 횟수</th>
 		<th>최대 고각</th>
-		<th>사정거리</th>
 		<th>기본 연사 속도(초)</th>
 		<th>무게(톤)</th>
 		<th>제한 레벨</th>
@@ -1239,9 +950,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 	<tr>
 		<td>3"/40 cal Mark ZII L</td>
 		<td>1</td>
-		<td>550</td>
 		<td>70</td>
-		<td>884</td>
 		<td>1.4</td>
 		<td>7.52</td>
 		<td>2</td>
@@ -1253,7 +962,6 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 	<tr>
 		<th rowspan="2">주요 어뢰 발사관</th>
 		<th rowspan="2">연장</th>
-		<th rowspan="2">최대 어뢰 수</th>
 		<th rowspan="2">기본 연사 속도(초)</th>
 		<th colspan="2">어뢰 속도</th>
 		<th colspan="2">어뢰 사정거리</th>
@@ -1270,7 +978,6 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 	<tr>
 		<td>21" Mark10 x2 Launcher</td>
 		<td>2</td>
-		<td>13</td>
 		<td>28.36</td>
 		<td>36</td>
 		<td>52</td>
@@ -1284,20 +991,13 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 
 <table class="busancomponents">
 	<tr>
-		<th rowspan="2">주요 엔진</th>
-		<th colspan="2">만재 배수량 기준</th>
-		<th rowspan="2">오버힛 지속시간(초)</th>
-		<th rowspan="2">오버힛 가능 최소 DP</th>
-		<th rowspan="2">무게(톤)</th>
-	</tr>
-	<tr>
-		<th>기본 속력</th>
-		<th>최대 속력</th>	
+		<th>주요 엔진</th>
+		<th>오버힛 지속시간(초)</th>
+		<th>오버힛 가능 최소 DP</th>
+		<th>무게(톤)</th>
 	</tr>
 	<tr>
 		<td>FF Engine I (Heavy)</td>
-		<td>44</td>
-		<td>59</td>
 		<td>7</td>
 		<td>1680</td>
 		<td>110</td>
