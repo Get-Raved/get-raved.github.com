@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 03:29:10
+updated : 2021-04-08 03:37:57
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -1018,6 +1018,9 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 		<td>750</td>
 		<td>750</td>
 		<td>78</td>
+	</tr>
+	<tr>
+		{% include_relative _components/busan/fcs/busan_ff_fcs_i.html %}
 	</tr>
 </table>
 
