@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 16:09:57
+updated : 2021-04-08 16:11:35
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -407,27 +407,14 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
-	<tr>
-		<th>주요 주포</th>
-		<th>포문 수</th>
-		<th>최대 고각</th>
-		<th>기본 연사 속도(초)</th>
-		<th>무게(톤)</th>
-		<th>제한 레벨</th>
-		<th>필요 병종</th>
-	</tr>
+{% include_relative _templates/gun.html %}
 	<tr>
 		
 	</tr>
 </table>	
 
 <table class="busancomponents">
-	<tr>
-		<th>주요 엔진</th>
-		<th>오버힛 지속시간(초)</th>
-		<th>무게(톤)</th>
-		<th>오버힛 가능 최소 DP</th>
-	</tr>
+{% include_relative _templates/engine.html %}
 	<tr>
 		
 		<td>2120</td>
@@ -435,13 +422,7 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>FCS</th>
-		<th>명중 보너스</th>
-		<th>착탄 보정 거리</th>
-		<th>어뢰 탐지 거리</th>
-		<th>무게(톤)</th>
-	</tr>
+{% include_relative _templates/fcs.html %}
 	<tr>
 		
 	</tr>
@@ -529,27 +510,14 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
-	<tr>
-		<th>주요 주포</th>
-		<th>포문 수</th>
-		<th>최대 고각</th>
-		<th>기본 연사 속도(초)</th>
-		<th>무게(톤)</th>
-		<th>제한 레벨</th>
-		<th>필요 병종</th>
-	</tr>
+{% include_relative _templates/gun.html %}
 	<tr>
 		
 	</tr>
 </table>	
 
 <table class="busancomponents">
-	<tr>
-		<th>주요 엔진</th>
-		<th>오버힛 지속시간(초)</th>
-		<th>무게(톤)</th>
-		<th>오버힛 가능 최소 DP</th>
-	</tr>
+{% include_relative _templates/engine.html %}
 	<tr>
 		
 		<td>1920</td>
@@ -644,15 +612,7 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
-	<tr>
-		<th>주요 주포</th>
-		<th>포문 수</th>
-		<th>최대 고각</th>
-		<th>기본 연사 속도(초)</th>
-		<th>무게(톤)</th>
-		<th>제한 레벨</th>
-		<th>필요 병종</th>
-	</tr>
+{% include_relative _templates/gun.html %}
 	<tr>
 		
 	</tr>
@@ -662,12 +622,7 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>주요 엔진</th>
-		<th>오버힛 지속시간(초)</th>
-		<th>무게(톤)</th>
-		<th>오버힛 가능 최소 DP</th>
-	</tr>
+{% include_relative _templates/engine.html %}
 	<tr>
 		
 		<td>2160</td>
@@ -762,15 +717,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
-	<tr>
-		<th>주요 주포</th>
-		<th>포문 수</th>
-		<th>최대 고각</th>
-		<th>기본 연사 속도(초)</th>
-		<th>무게(톤)</th>
-		<th>제한 레벨</th>
-		<th>필요 병종</th>
-	</tr>
+{% include_relative _templates/gun.html %}
 	<tr>
 		
 	</tr>
@@ -799,12 +746,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>주요 엔진</th>
-		<th>오버힛 지속시간(초)</th>
-		<th>무게(톤)</th>
-		<th>오버힛 가능 최소 DP</th>
-	</tr>
+{% include_relative _templates/engine.html %}
 	<tr>
 		
 		<td>1680</td>
