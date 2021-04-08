@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 03:58:16
+updated : 2021-04-08 14:54:41
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -223,14 +223,13 @@ updated : 2021-04-08 03:58:16
 	<tr>
 		<th>주요 엔진</th>
 		<th>오버힛 지속시간(초)</th>
-		<th>오버힛 가능 최소 DP</th>
 		<th>무게(톤)</th>
+		<th>오버힛 가능 최소 DP</th>
+
 	</tr>
 	<tr>
-		<td>FF Engine I (Heavy)</td>
-		<td>7</td>
+		{% include_relative _components/busan/engine/FF Engine I (Heavy).html %}
 		<td>1920</td>
-		<td>110</td>
 	</tr>
 </table>
 
@@ -847,7 +846,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 		<th>고속</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/torpede/21 Mark10 x2 Launcher.html %}
+		{% include_relative _components/busan/torpedo/21 Mark10 x2 Launcher.html %}
 	</tr>
 </table>
 
