@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 15:07:12
+updated : 2021-04-08 15:25:29
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -215,7 +215,7 @@ updated : 2021-04-08 15:07:12
 		<th>필요 병종</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/gun/340 cal Mark ZII.html %}
+		
 	</tr>
 </table>
 
@@ -228,7 +228,7 @@ updated : 2021-04-08 15:07:12
 
 	</tr>
 	<tr>
-		{% include_relative _components/busan/engine/FF Engine I (Heavy).html %}
+		
 		<td>1920</td>
 	</tr>
 </table>
@@ -242,7 +242,7 @@ updated : 2021-04-08 15:07:12
 		<th>무게(톤)</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/fcs/ff_fcs_i.html %}
+		
 	</tr>
 </table>
 
@@ -337,7 +337,7 @@ updated : 2021-04-08 15:07:12
 		<th>필요 병종</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/gun/340 cal Mark ZII L.html %}
+		
 	</tr>
 </table>	
 
@@ -349,7 +349,7 @@ updated : 2021-04-08 15:07:12
 		<th>오버힛 가능 최소 DP</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/engine/FF Engine I (Heavy).html %}
+		
 		<td>1720</td>
 	</tr>
 </table>
@@ -363,7 +363,7 @@ updated : 2021-04-08 15:07:12
 		<th>무게(톤)</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/fcs/ff_fcs_i.html %}
+		
 	</tr>
 </table>
 
@@ -458,7 +458,7 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 		<th>필요 병종</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/gun/340 cal Mark ZII L.html %}
+		
 	</tr>
 </table>	
 
@@ -470,7 +470,7 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 		<th>오버힛 가능 최소 DP</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/engine/FF Engine I (Heavy).html %}
+		
 		<td>2120</td>
 	</tr>
 </table>
@@ -484,7 +484,7 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 		<th>무게(톤)</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/fcs/ff_fcs_i.html %}
+		
 	</tr>
 </table>
 
@@ -580,7 +580,7 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 		<th>필요 병종</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/gun/340 cal Mark ZII L.html %}
+		
 	</tr>
 </table>	
 
@@ -592,7 +592,7 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 		<th>오버힛 가능 최소 DP</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/engine/FF Engine I (Heavy).html %}
+		
 		<td>1920</td>
 	</tr>
 </table>
@@ -606,7 +606,7 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 		<th>무게(톤)</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/fcs/ff_fcs_i.html %}
+		
 	</tr>
 </table>
 
@@ -701,10 +701,10 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 		<th>필요 병종</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/gun/551 cal Mark 16.html %}
+		
 	</tr>
 	<tr>
-		{% include_relative _components/busan/gun/653 cal Mark 13.html %}
+		
 	</tr>
 </table>
 
@@ -716,7 +716,7 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 		<th>오버힛 가능 최소 DP</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/engine/DD Engine I (Heavy).html %}
+		
 		<td>2160</td>
 	</tr>
 </table>
@@ -730,7 +730,7 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 		<th>무게(톤)</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/fcs/ff_fcs_i.html %}
+		
 	</tr>
 </table>
 
@@ -825,7 +825,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 		<th>필요 병종</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/gun/340 cal Mark ZII L.html %}
+		
 	</tr>
 </table>	
 
@@ -847,7 +847,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 		<th>고속</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/torpedo/21 Mark10 x2 Launcher.html %}
+		
 	</tr>
 </table>
 
@@ -859,7 +859,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 		<th>오버힛 가능 최소 DP</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/engine/FF Engine I (Heavy).html %}
+		
 		<td>1680</td>
 	</tr>
 </table>
@@ -873,7 +873,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 		<th>무게(톤)</th>
 	</tr>
 	<tr>
-		{% include_relative _components/busan/fcs/ff_fcs_i.html %}
+		
 	</tr>
 </table>
 
