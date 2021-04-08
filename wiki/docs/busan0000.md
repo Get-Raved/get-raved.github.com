@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 16:21:51
+updated : 2021-04-08 16:24:34
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -307,7 +307,7 @@ updated : 2021-04-08 16:21:51
 <table class="busancomponents">
 	{% include_relative _templates/gun.html %}
 	<tr>
-		
+	{% include_relative _components/busan/gun/3_40_cal_Mark_ZII_L.html %}	
 	</tr>
 </table>	
 
@@ -409,7 +409,7 @@ Frigate-01의 화력 강화형. DP가 감소하고 주포와 FCS의 용적이 �
 <table class="busancomponents">
 {% include_relative _templates/gun.html %}
 	<tr>
-		
+		{% include_relative _components/busan/gun/3_40_cal_Mark_ZII_L.html %}
 	</tr>
 </table>	
 
@@ -512,7 +512,7 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 <table class="busancomponents">
 {% include_relative _templates/gun.html %}
 	<tr>
-		
+		{% include_relative _components/busan/gun/3_40_cal_Mark_ZII_L.html %}
 	</tr>
 </table>	
 
