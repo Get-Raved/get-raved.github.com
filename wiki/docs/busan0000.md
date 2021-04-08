@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 16:02:09
+updated : 2021-04-08 16:03:34
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -203,14 +203,14 @@ updated : 2021-04-08 16:02:09
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
-	
+{% include_relative _templates/gun.html %}
 	<tr>
 		
 	</tr>
 </table>
 
 <table class="busancomponents">
-	
+{% include_relative _templates/engine.html %}
 	<tr>
 		
 		<td>1920</td>
@@ -218,7 +218,7 @@ updated : 2021-04-08 16:02:09
 </table>
 
 <table class="busancomponents">
-	
+{% include_relative _templates/fcs.html %}
 	<tr>
 		
 	</tr>
