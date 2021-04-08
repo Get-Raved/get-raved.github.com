@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 15:25:29
+updated : 2021-04-08 15:29:11
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -203,30 +203,14 @@ updated : 2021-04-08 15:25:29
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
-	<tr>
-		<th>주요 주포</th>
-		<th>포문 수</th>
-		<th>최대 사격 횟수</th>
-		<th>최대 고각</th>
-		<th>사정거리</th>
-		<th>기본 연사 속도(초)</th>
-		<th>무게(톤)</th>
-		<th>제한 레벨</th>
-		<th>필요 병종</th>
-	</tr>
+	{% include_relative _templates/gun.html %}
 	<tr>
 		
 	</tr>
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>주요 엔진</th>
-		<th>오버힛 지속시간(초)</th>
-		<th>무게(톤)</th>
-		<th>오버힛 가능 최소 DP</th>
-
-	</tr>
+	{% include_relative _templates/engine.html %}
 	<tr>
 		
 		<td>1920</td>
@@ -234,13 +218,7 @@ updated : 2021-04-08 15:25:29
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>FCS</th>
-		<th>명중 보너스</th>
-		<th>착탄 보정 거리</th>
-		<th>어뢰 탐지 거리</th>
-		<th>무게(톤)</th>
-	</tr>
+	{% include_relative _templates/fcs.html %}
 	<tr>
 		
 	</tr>
