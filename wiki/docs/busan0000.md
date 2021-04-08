@@ -220,7 +220,7 @@ updated : 2021-04-08 16:27:12
 <table class="busancomponents">
 {% include_relative _templates/fcs.html %}
 	<tr>
-		{% include_relative _components/busan/fcs/FF_FCS_I_(Aiming).html %}
+		{% include_relative _components/busan/fcs/FF_FCS_I_Aiming.html %}
 	</tr>
 </table>
 
