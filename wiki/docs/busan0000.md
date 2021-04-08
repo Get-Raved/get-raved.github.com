@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 14:57:57
+updated : 2021-04-08 15:02:55
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -13,7 +13,7 @@ updated : 2021-04-08 14:57:57
 
 ***
 
-{% include _templates/techtree.html %}
+{% include_relative _templates/techtree.html %}
 
 ## 1. 계통도
 
