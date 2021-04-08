@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 16:09:03
+updated : 2021-04-08 16:09:57
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -320,13 +320,7 @@ updated : 2021-04-08 16:09:03
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>FCS</th>
-		<th>명중 보너스</th>
-		<th>착탄 보정 거리</th>
-		<th>어뢰 탐지 거리</th>
-		<th>무게(톤)</th>
-	</tr>
+{% include_relative _templates/fcs.html %}
 	<tr>
 		
 	</tr>
@@ -563,13 +557,7 @@ Frigate-01의 방어력 강화형. 기동성이 감소하고 DP가 상승하였�
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>FCS</th>
-		<th>명중 보너스</th>
-		<th>착탄 보정 거리</th>
-		<th>어뢰 탐지 거리</th>
-		<th>무게(톤)</th>
-	</tr>
+{% include_relative _templates/fcs.html %}
 	<tr>
 		
 	</tr>
@@ -687,13 +675,7 @@ Frigate-01의 기동력 강화형. 화력이 감소하고 선회능력과 오버
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>FCS</th>
-		<th>명중 보너스</th>
-		<th>착탄 보정 거리</th>
-		<th>어뢰 탐지 거리</th>
-		<th>무게(톤)</th>
-	</tr>
+{% include_relative _templates/fcs.html %}
 	<tr>
 		
 	</tr>
@@ -830,13 +812,7 @@ Frigate-01의 최종 개장형. 주포 3포탑이 모두 뒤에 몰려있으나 
 </table>
 
 <table class="busancomponents">
-	<tr>
-		<th>FCS</th>
-		<th>명중 보너스</th>
-		<th>착탄 보정 거리</th>
-		<th>어뢰 탐지 거리</th>
-		<th>무게(톤)</th>
-	</tr>
+{% include_relative _templates/fcs.html %}
 	<tr>
 		
 	</tr>
