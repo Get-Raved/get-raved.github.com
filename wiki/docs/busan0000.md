@@ -1,6 +1,6 @@
 # 부산 프리깃 및 구축함
 <div class="update">
-updated : 2021-04-08 16:27:12
+updated : 2021-04-08 16:36:45
 </div>
 
 <img src="../images/parenticon.png" alt="상위 문서 아이콘" id="imagemiddle">  [중립 테크 트리](neutraltree)
@@ -204,9 +204,7 @@ updated : 2021-04-08 16:27:12
 <p>
 <table class="busancomponents">
 {% include_relative _templates/gun.html %}
-	<tr>
 	{% include_relative _components/busan/gun/3_40_cal_Mark_ZII.html %}
-	</tr>
 </table>
 
 <table class="busancomponents">
@@ -219,9 +217,7 @@ updated : 2021-04-08 16:27:12
 
 <table class="busancomponents">
 {% include_relative _templates/fcs.html %}
-	<tr>
-		{% include_relative _components/busan/fcs/FF_FCS_I_Aiming.html %}
-	</tr>
+{% include_relative _components/busan/fcs/FF_FCS_I_Aiming.html %}
 </table>
 
 </p>
@@ -305,16 +301,13 @@ updated : 2021-04-08 16:27:12
 <summary>주요 컴포넌트 펼치기/접기</summary>
 <p>
 <table class="busancomponents">
-	{% include_relative _templates/gun.html %}
-	<tr>
-	{% include_relative _components/busan/gun/3_40_cal_Mark_ZII_L.html %}	
-	</tr>
+{% include_relative _templates/gun.html %}
+{% include_relative _components/busan/gun/3_40_cal_Mark_ZII_L.html %}	
 </table>	
 
 <table class="busancomponents">
-	{% include_relative _templates/engine.html %}
+{% include_relative _templates/engine.html %}
 	<tr>
-		
 		<td>1720</td>
 	</tr>
 </table>
