@@ -73,18 +73,13 @@ td {
 }
 
 a {
+    color: #2087E0;
+    text-decoration: none;
+}
+
+.external {
     background: url(../wiki/images/external.png) center left no-repeat;
     padding-left: 16px;
-}
-
-a[href ^="https://get-raved.github.io/"]{
-    color: #2087E0;
-    text-decoration: none;
-}
-
-a[href ^="http://get-raved.github.io/"]{
-    color: #2087E0;
-    text-decoration: none;
 }
 
 #white {
