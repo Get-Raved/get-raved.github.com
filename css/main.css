@@ -80,6 +80,7 @@ a {
 .external {
     background: url(../wiki/images/external.png) center left no-repeat;
     padding-left: 18px;
+    color: #00B050;
 }
 
 #white {
