@@ -83,6 +83,11 @@ a {
     color: #00B050;
 }
 
+.parent {
+    background: url(../wiki/images/parenticon.png) center left no-repeat;
+    padding-left: 18px;
+}
+
 #white {
     color: #FFFFFF;
 }
